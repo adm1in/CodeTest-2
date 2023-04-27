@@ -1,6 +1,6 @@
 import requests
 
-token = 'c46ff334-45c6-489f-822f-152deba67a65'
+token = ''
 
 class Quake():
     def __init__(self, token=None):

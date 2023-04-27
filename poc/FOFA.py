@@ -5,7 +5,7 @@ import base64
 
 urllib3.disable_warnings()
 
-token = 'eyJhbGciOiJIUzUxMiIsImtpZCI6Ik5XWTVZakF4TVRkalltSTJNRFZsWXpRM05EWXdaakF3TURVMlkyWTNZemd3TUdRd1pUTmpZUT09IiwidHlwIjoiSldUIn0.eyJpZCI6MzU5NjYsIm1pZCI6MTAwMDI2MDc2LCJ1c2VybmFtZSI6InhreDUxOCIsImV4cCI6MTY2NTQ3NjYzOH0.dKTYdc96HH9pYg3JM6lhy0MrfiDFzkS4744qZiMQNfQw098GX7uuWagBYTSx2ahXVhUIkQbDL2vRgzi0-ejxvg'
+token = ''
 
 fofa_token = token
 refresh_token = token
