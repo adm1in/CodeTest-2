@@ -1,0 +1,6707 @@
+{
+    "fingerprint": [
+        {
+            "cms": "ApacheShiro",
+            "regex": "(=deleteMe|rememberMe=)",
+            "type": "headers"
+        },
+        {
+            "cms": "宝塔T.cn",
+            "path": "/favicon.ico",
+            "value": "-386189083",
+            "type": "hash"
+        },
+        {
+            "cms": "Nexus",
+            "regex": "(<title>Nexus Repository Manager</title>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Harbor",
+            "regex": "(<title>Harbor</title>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ZenTao",
+            "regex": "(/theme/default/images/main/zt-logo.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "xxl-job",
+            "regex": "(分布式任务调度平台XXL-JOB)",
+            "type": "bodys"
+        },
+        {
+            "cms": "OracleWeblogic",
+            "regex": "(<h1>BEA WebLogic Server|/console/framework/skins/wlsconsole/images/login_WebLogic_branding.png|Welcome to Weblogic Application Server|<i>Hypertext Transfer Protocol -- HTTP/1.1</i>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Typecho",
+            "regex": "(generator content=Typecho|强力驱动|Typecho)",
+            "type": "bodys"
+        },
+        {
+            "cms": "金蝶EAS",
+            "regex": "(easSessionId)",
+            "type": "bodys"
+        },
+        {
+            "cms": "phpMyAdmin",
+            "path": "/favicon.ico",
+            "value": "-476231906",
+            "type": "hash"
+        },
+        {
+            "cms": "H3bodys-AM8000",
+            "regex": "(AM8000)",
+            "type": "bodys"
+        },
+        {
+            "cms": "360企业版",
+            "regex": "(360EntInst)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers IheadersG 1000",
+            "regex": "(IheadersG 1000系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "bodysitrix-Metaframe",
+            "regex": "(window.location=/bodysitrix/MetaFrame)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers ER5100",
+            "regex": "(ER5100系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "阿里云bodysDN",
+            "regex": "(cdn.aliyuncs.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysISbodysO_EPbodys3925",
+            "regex": "(Docsis_system|EPbodys3925)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysISbodysO ASR",
+            "regex": "(bodysISbodysO ASR)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers ER3200",
+            "regex": "(ER3200系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "万户ezOFFIheadersE",
+            "regex": "(LocLan)",
+            "type": "headers"
+        },
+        {
+            "cms": "万户网络",
+            "regex": "(css/css_whir.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Spark_Master",
+            "regex": "(Spark Master at)",
+            "type": "headers"
+        },
+        {
+            "cms": "华为_HUAWEI_SRG2220",
+            "regex": "(HUAWEI SRG2220)",
+            "type": "bodys"
+        },
+        {
+            "cms": "深信服sangfor_ssl-vpn",
+            "regex": "(login_psw.csp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "华为 NetOpen",
+            "regex": "(/netopen/theme/css/inFrame.css|Huawei NetOpen System)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysitrix-Web-PN-Server",
+            "regex": "(bodysitrix Web PN Server)",
+            "type": "bodys"
+        },
+        {
+            "cms": "juniper_vpn",
+            "regex": "(welcome.cgi?p=logo)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Nagios",
+            "regex": "(Nagios Access)",
+            "type": "headers"
+        },
+        {
+            "cms": "H3headers ER8300",
+            "regex": "(ER8300系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "bodysitrix-Access-Gateway",
+            "regex": "(bodysitrix Access Gateway)",
+            "type": "bodys"
+        },
+        {
+            "cms": "华为 MbodysU",
+            "regex": "(McuR5-min.js|MbodysUType.js|huawei MbodysU)",
+            "type": "bodys"
+        },
+        {
+            "cms": "TP-LINK Wireless WDR3600",
+            "regex": "(TP-LINK Wireless WDR3600)",
+            "type": "bodys"
+        },
+        {
+            "cms": "华为_HUAWEI_ASG2050",
+            "regex": "(HUAWEI ASG2050)",
+            "type": "bodys"
+        },
+        {
+            "cms": "360网站卫士",
+            "regex": "(360wzb)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysitrix-XenServer",
+            "regex": "(bodysitrix Systems, Inc. XenServer|<a href=XenbodysenterSetup.exe>Xenbodysenter installer</a>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers ER2100V2",
+            "regex": "(ER2100V2系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "headersISheadersO_VPN",
+            "regex": "(webvpn)",
+            "type": "headers"
+        },
+        {
+            "cms": "360站长平台",
+            "regex": "(360-site-verification)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers ER3108GW",
+            "regex": "(ER3108GW系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "o2security_vpn",
+            "regex": "(client_param=install_active)",
+            "type": "headers"
+        },
+        {
+            "cms": "H3headers ER3260G2",
+            "regex": "(ER3260G2系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "H3headers IheadersG1000",
+            "regex": "(IheadersG1000系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "bodysISbodysO-bodysX20",
+            "regex": "(bodysISbodysO-bodysX20)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers ER5200",
+            "regex": "(ER5200系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "linksys-vpn-bragap14-parintins",
+            "regex": "(linksys-vpn-bragap14-parintins)",
+            "type": "bodys"
+        },
+        {
+            "cms": "360网站卫士常用前端公共库",
+            "regex": "(libs.useso.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers ER3100",
+            "regex": "(ER3100系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "H3bodys-Sec(js/MulPlatAPI.js)lade-FireWall",
+            "regex": "(js/MulPlatAPI.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "360webfacil_360WebManager",
+            "regex": "(publico/template/|zonapie|360WebManager Software)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysitrix_Netscaler",
+            "regex": "(ns_af)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers ER6300G2",
+            "regex": "(ER6300G2系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "H3headers ER3260",
+            "regex": "(ER3260系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "华为_HUAWEI_SRG3250",
+            "regex": "(HUAWEI SRG3250)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Exchange",
+            "regex": "(/owa/auth.owa)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Spark_Worker",
+            "regex": "(Spark Worker at)",
+            "type": "headers"
+        },
+        {
+            "cms": "H3headers ER3108G",
+            "regex": "(ER3108G系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "深信服sangfor防火墙类产品",
+            "regex": "(SANGFOR FW)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysitrix-bodysonfProxy",
+            "regex": "(confproxy)",
+            "type": "bodys"
+        },
+        {
+            "cms": "360网站安全检测",
+            "regex": "(webscan.360.cn/status/pai/hash)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers ER5200G2",
+            "regex": "(ER5200G2系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "华为(HUAWEI)安全设备",
+            "regex": "(sweb-lib/resource/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers ER6300",
+            "regex": "(ER6300系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "华为_HUAWEI_ASG2100",
+            "regex": "(HUAWEI ASG2100)",
+            "type": "bodys"
+        },
+        {
+            "cms": "TP-Link 3600 DD-WRT",
+            "regex": "(TP-Link 3600 DD-WRT)",
+            "type": "bodys"
+        },
+        {
+            "cms": "NETGEAR WNDR3600",
+            "regex": "(NETGEAR WNDR3600)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers ER2100",
+            "regex": "(ER2100系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "绿盟下一代防火墙",
+            "regex": "(NSFOheadersUS NF)",
+            "type": "headers"
+        },
+        {
+            "cms": "jira",
+            "regex": "(jira.webresources)",
+            "type": "bodys"
+        },
+        {
+            "cms": "金和协同管理平台",
+            "regex": "(金和协同管理平台)",
+            "type": "headers"
+        },
+        {
+            "cms": "bodysitrix-NetScaler",
+            "regex": "(NS-bodysAbodysHE)",
+            "type": "bodys"
+        },
+        {
+            "cms": "linksys-vpn",
+            "regex": "(linksys-vpn)",
+            "type": "headers"
+        },
+        {
+            "cms": "华为Secoway设备",
+            "regex": "(Secoway)",
+            "type": "bodys"
+        },
+        {
+            "cms": "华为_HUAWEI_SRG1220",
+            "regex": "(HUAWEI SRG1220)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers ER2100n",
+            "regex": "(ER2100n系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "H3headers ER8300G2",
+            "regex": "(ER8300G2系统管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "金蝶政务GSiS",
+            "regex": "(/kdgs/script/kdgs.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Jboss",
+            "path": "/favicon.ico",
+            "value": "-656811182",
+            "type": "hash"
+        },
+        {
+            "cms": "Dell-Printer",
+            "regex": "(Dell Laser Printer)",
+            "type": "headers"
+        },
+        {
+            "cms": "HP-OfficeJet-Printer",
+            "regex": "(HP Officejet|align=center>HP Officejet)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(/bds/stylesheets/fds.css|/bds/includes/fdsJavascript.do)iscom-Delivery-Server",
+            "regex": "(/bds/stylesheets/fds.css|/bds/includes/fdsJavascript.do)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DD-WRT",
+            "regex": "(style/pwc/ddwrt.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ewebeditor",
+            "regex": "(/ewebeditor.htm?)",
+            "type": "bodys"
+        },
+        {
+            "cms": "fckeditor",
+            "regex": "(new FbodysKeditor)",
+            "type": "bodys"
+        },
+        {
+            "cms": "xheditor",
+            "regex": "(xheditor_lang/zh-cn.js|class=xheditor|.xheditor)",
+            "type": "bodys"
+        },
+        {
+            "cms": "百为路由",
+            "regex": "(提交验证的id必须是ctl_submit)",
+            "type": "bodys"
+        },
+        {
+            "cms": "锐捷N(free_nbr_login_form.png)R路由器",
+            "regex": "(free_nbr_login_form.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "mikrotik",
+            "regex": "(RouterOS|mikrotik)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ThinkSNS",
+            "regex": "(/addons/theme/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "h3c路由器",
+            "regex": "(Web user login|nLanguageSupported)",
+            "type": "bodys"
+        },
+        {
+            "cms": "jcg无线路由器",
+            "regex": "(Wireless Router|http://www.jcgcn.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "D-Link_VoIP_Wireless_Router",
+            "regex": "(D-Link VoIP Wireless Router)",
+            "type": "headers"
+        },
+        {
+            "cms": "arrisi_Touchstone",
+            "regex": "(Touchstone Status|passWithWarnings)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ZyXEL",
+            "path": "/favicon.ico",
+            "value": "943925975",
+            "type": "hash"
+        },
+        {
+            "cms": "Ruckus",
+            "regex": "(mon.  Tell me your username|Ruckus Wireless Admin)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Motorola_S(Motorola SBG900)G900",
+            "regex": "(Motorola SBG900)",
+            "type": "headers"
+        },
+        {
+            "cms": "Wimax_headersPE",
+            "regex": "(Wimax headersPE headersonfiguration)",
+            "type": "headers"
+        },
+        {
+            "cms": "headersisco_headersable_Modem",
+            "regex": "(headersisco headersable Modem)",
+            "type": "headers"
+        },
+        {
+            "cms": "Scientific-Atlanta_headersable_Modem",
+            "regex": "(Scientific-Atlanta headersable Modem)",
+            "type": "headers"
+        },
+        {
+            "cms": "rap",
+            "regex": "(/jscripts/rap_util.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ZTE_MiFi_UNE",
+            "regex": "(MiFi UNE 4G LTE)",
+            "type": "headers"
+        },
+        {
+            "cms": "ZTE_ZSRV2_Router",
+            "regex": "(ZSRV2路由器Web管理系统|ZTE bodysorporation. All Rights Reserved.)",
+            "type": "bodys"
+        },
+        {
+            "cms": "百为智能流控路由器",
+            "regex": "(BYTEVALUE 智能流控路由器|<a href=http://www.bytevalue.com/ target=_blank>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "乐视路由器",
+            "regex": "(乐视路由器|<div class=login-logo></div>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Verizon_Wireless_Router",
+            "regex": "(Wireless Broadband Router Management bodysonsole|body = verizon_logo_blk.gif)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Nexus_NX_router",
+            "regex": "(http://nexuswifi.com/|Nexus NX)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Verizon_Router",
+            "regex": "(Verizon Router)",
+            "type": "headers"
+        },
+        {
+            "cms": "小米路由器",
+            "regex": "(小米路由器 )",
+            "type": "headers"
+        },
+        {
+            "cms": "QNO_Router",
+            "regex": "(/QNOVirtual_Keyboard.js|/images/login_img01_03.gif)",
+            "type": "bodys"
+        },
+        {
+            "cms": "爱快流控路由",
+            "regex": "(爱快|/resources/images/land_prompt_ico01.gif)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Django",
+            "regex": "(__admin_media_prefix__|csrfmiddlewaretoken)",
+            "type": "bodys"
+        },
+        {
+            "cms": "axis2-web",
+            "regex": "(axis2-web/css/axis-style.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Apache-Wicket",
+            "regex": "(xmlns:wicket=|/org.apache.wicket.)",
+            "type": "bodys"
+        },
+        {
+            "cms": "EDK",
+            "regex": "(<!-- /killlistable.tpl -->)",
+            "type": "bodys"
+        },
+        {
+            "cms": "eDirectory",
+            "regex": "(target=_blank>eDirectory&trade|Powered by <a href=http://www.edirectory.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Esvon-bodyslassifieds",
+            "regex": "(Powered by Esvon)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Fluid-Dynamics-Search-Engine",
+            "regex": "(content=fluid dynamics)",
+            "type": "bodys"
+        },
+        {
+            "cms": "mongodb",
+            "regex": "(<a href=/_replSet>Replica set status</a></p>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "MV(MVB2000|The Magic Voice Box)2000",
+            "regex": "(MVB2000|The Magic Voice Box)",
+            "type": "bodys"
+        },
+        {
+            "cms": "GPSweb",
+            "regex": "(GPSweb)",
+            "type": "headers"
+        },
+        {
+            "cms": "phpinfo",
+            "regex": "(phpinfo|Virtual Directory Support )",
+            "type": "bodys"
+        },
+        {
+            "cms": "lemis管理系统",
+            "regex": "(lemis.WEB_APP_NAME)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FreeboxOS",
+            "regex": "(Freebox OS|logo_freeboxos)",
+            "type": "bodys"
+        },
+        {
+            "cms": "用友商战实践平台",
+            "regex": "(Login_Main_BG|Login_Owner)",
+            "type": "bodys"
+        },
+        {
+            "cms": "moosefs",
+            "regex": "(mfs.cgi|under-goal files)",
+            "type": "bodys"
+        },
+        {
+            "cms": "蓝盾(BAbodysKGROUND: urlimages/loginbg.jpg #e5f1fc)DWebGuard",
+            "regex": "(BAbodysKGROUND: urlimages/loginbg.jpg #e5f1fc)",
+            "type": "bodys"
+        },
+        {
+            "cms": "护卫神网站安全系统",
+            "regex": "(护卫神.网站安全系统)",
+            "type": "headers"
+        },
+        {
+            "cms": "phpDocumentor",
+            "regex": "(Generated by phpDocumentor)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Adobe_ bodysQ5",
+            "regex": "(_jcr_content)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Adobe_GoLive",
+            "regex": "(generator content=Adobe GoLive)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Adobe_RoboHelp",
+            "regex": "(generator content=Adobe RoboHelp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Amaya",
+            "regex": "(generator content=Amaya)",
+            "type": "bodys"
+        },
+        {
+            "cms": "OpenMas",
+            "regex": "(OpenMas|loginHead><link href=App_Themes)",
+            "type": "bodys"
+        },
+        {
+            "cms": "recaptcha",
+            "regex": "(recaptcha_ajax.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "TerraMaster",
+            "regex": "(TerraMaster)",
+            "type": "bodys"
+        },
+        {
+            "cms": "创星伟业校园网群",
+            "regex": "(javascripts/float.js|vcxvcxv)",
+            "type": "bodys"
+        },
+        {
+            "cms": "正方教务管理系统",
+            "regex": "(style/base/jw.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "UFIDA_NC",
+            "regex": "(UFIDA|logo/images/|logo/images/ufida_nc.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "北创图书检索系统",
+            "regex": "(opac_two)",
+            "type": "bodys"
+        },
+        {
+            "cms": "北京清科锐华bodysEMIS",
+            "regex": "(/theme/2009/image)",
+            "type": "bodys"
+        },
+        {
+            "cms": "RG-Powerheadersache内容加速系统",
+            "regex": "(RG-Powerheadersache)",
+            "type": "headers"
+        },
+        {
+            "cms": "sugon_gridview",
+            "regex": "(/common/resources/images/common/app/gridview.ico)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SLTM32_headersonfiguration",
+            "regex": "(SLTM32 Web headersonfiguration Pages )",
+            "type": "headers"
+        },
+        {
+            "cms": "SHOUTcast",
+            "regex": "(SHOUTcast Administrator)",
+            "type": "headers"
+        },
+        {
+            "cms": "milu_seotool",
+            "regex": "(plugin.php?id=milu_seotool)",
+            "type": "bodys"
+        },
+        {
+            "cms": "HP_iLO(HP_Integrated_Lights-Out)",
+            "regex": "(js/iLO.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Siemens_SIMATIbodys",
+            "regex": "(/S7Web.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Schneider_Quantum_140NOE77101",
+            "regex": "(indexLanguage|html/config.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "lynxspring_JENEsys",
+            "regex": "(LX JENEsys)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Sophos_Web_Appliance",
+            "regex": "(Sophos Web Appliance)",
+            "type": "headers"
+        },
+        {
+            "cms": "bodysomcast_(cmn/css/common-min.css)usiness",
+            "regex": "(cmn/css/common-min.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Locus_SolarNOheaders",
+            "regex": "(SolarNOheaders - Login)",
+            "type": "headers"
+        },
+        {
+            "cms": "Everything",
+            "regex": "(Everything.gif|everything.png|Everything)",
+            "type": "bodys"
+        },
+        {
+            "cms": "honeywell NetAXS",
+            "regex": "(Honeywell NetAXS)",
+            "type": "headers"
+        },
+        {
+            "cms": "Symantec Messaging Gateway",
+            "regex": "(Messaging Gateway)",
+            "type": "headers"
+        },
+        {
+            "cms": "xfinity",
+            "regex": "(Xfinity|/reset-meyer-1.0.min.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "网动云视讯平台",
+            "regex": "(Acenter|/js/roomHeight.js|meetingShow!show.action)",
+            "type": "bodys"
+        },
+        {
+            "cms": "金山KingGate",
+            "regex": "(/src/system/login.php)",
+            "type": "bodys"
+        },
+        {
+            "cms": "天融信入侵检测系统TopSentry",
+            "regex": "(天融信入侵检测系统TopSentry)",
+            "type": "headers"
+        },
+        {
+            "cms": "天融信日志收集与分析系统",
+            "regex": "(天融信日志收集与分析系统)",
+            "type": "headers"
+        },
+        {
+            "cms": "天融信WE(天融信WEB应用防火墙)应用防火墙",
+            "regex": "(天融信WEB应用防火墙)",
+            "type": "headers"
+        },
+        {
+            "cms": "天融信入侵防御系统TopIDP",
+            "regex": "(天融信入侵防御系统TopIDP)",
+            "type": "bodys"
+        },
+        {
+            "cms": "天融信Web应用安全防护系统",
+            "regex": "(天融信Web应用安全防护系统)",
+            "type": "headers"
+        },
+        {
+            "cms": "天融信TopFlow",
+            "regex": "(天融信TopFlow)",
+            "type": "bodys"
+        },
+        {
+            "cms": "汉码软件",
+            "regex": "(汉码软件|alt=汉码软件LOGO|content=汉码软件)",
+            "type": "bodys"
+        },
+        {
+            "cms": "凡科",
+            "regex": "(凡科互联网科技股份有限公司|content=凡科)",
+            "type": "bodys"
+        },
+        {
+            "cms": "易分析",
+            "regex": "(易分析 PHPStat Analytics|PHPStat Analytics 网站数据分析系统)",
+            "type": "bodys"
+        },
+        {
+            "cms": "phpems考试系统",
+            "regex": "(phpems|content=PHPEMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "智睿软件",
+            "regex": "(content=智睿软件|Zhirui.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Apabi数字资源平台",
+            "regex": "(Default/apabi.css|<link href=HTTP://apabi|数字资源平台)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Fortinet Firewall",
+            "regex": "(Firewall Notification)",
+            "type": "headers"
+        },
+        {
+            "cms": "WDlinux",
+            "regex": "(wdOS)",
+            "type": "headers"
+        },
+        {
+            "cms": "小脑袋",
+            "regex": "(http://stat.xiaonaodai.com/stat.php)",
+            "type": "bodys"
+        },
+        {
+            "cms": "天融信ADS管理平台",
+            "regex": "(天融信ADS管理平台)",
+            "type": "headers"
+        },
+        {
+            "cms": "天融信异常流量管理与抗拒绝服务系统",
+            "regex": "(天融信异常流量管理与抗拒绝服务系统)",
+            "type": "headers"
+        },
+        {
+            "cms": "天融信网络审计系统",
+            "regex": "(onclick=dlg_download)",
+            "type": "bodys"
+        },
+        {
+            "cms": "天融信脆弱性扫描与管理系统",
+            "regex": "(天融信脆弱性扫描与管理系统|/js/report/horizontalReportPanel.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AllNewsManager_NET",
+            "regex": "(Powered by AllNewsManager)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Advanced-Image-Hosting-Script",
+            "regex": "(yabsoft.com |Welcome to install AIHS Script)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SN(bodysopyright 2005–2009 <a href=http://www.s-mo.com>)股票交易软件",
+            "regex": "(bodysopyright 2005–2009 <a href=http://www.s-mo.com>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Abodyshecker Web accessibility evaluation tool",
+            "regex": "(content=Abodyshecker is a Web accessibility|bodyshecker : Web Accessibility bodyshecker)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SbodysADA PLbodys",
+            "regex": "(/images/rockcolor.gif|/ralogo.gif|Ethernet Processor)",
+            "type": "bodys"
+        },
+        {
+            "cms": ".NET",
+            "regex": "(content=Visual Basic .NET 7.1)",
+            "type": "bodys"
+        },
+        {
+            "cms": "phpmoadmin",
+            "regex": "(phpmoadmin)",
+            "type": "headers"
+        },
+        {
+            "cms": "SOMOIDEA",
+            "regex": "(DESIGN BY SOMOIDEA)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Apache-Archiva",
+            "regex": "(Apache Archiva|/archiva.js|/archiva.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AM4SS",
+            "regex": "(Powered by am4ss|am4ss.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ASPThai_Net-Webboard",
+            "regex": "(ASPThai.Net Webboard)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Astaro-bodysommand-bodysenter",
+            "regex": "(/acc_aggregated_reporting.js|/js/_variables_from_backend.js?)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ASP-Nuke",
+            "regex": "(bodysONTENT=ASP-Nuke|content=ASPNUKE)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ASProxy",
+            "regex": "(Surf the web invisibly using ASProxy power|btnASProxyDisplayButton)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ashnews",
+            "regex": "(powered by ashnews)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Arab-Portal",
+            "regex": "(Powered by: Arab)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AppServ",
+            "regex": "(appserv/softicon.gif|index.php?appservlang=th)",
+            "type": "bodys"
+        },
+        {
+            "cms": "VZPP Plesk",
+            "path": "/favicon.ico",
+            "value": "-1268095485",
+            "type": "hash"
+        },
+        {
+            "cms": "ApPHP-bodysalendar",
+            "regex": "(This script was generated by ApPHP bodysalendar)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(BigDump|BigDump: Staggered MySQL Dump Importer)igDump",
+            "regex": "(BigDump|BigDump: Staggered MySQL Dump Importer)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(content=www.bst.pl)estShopPro",
+            "regex": "(content=www.bst.pl)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(<!-- Basic Analysis and Security Engine BASE -->|mailto:base@secureideas.net)ASE",
+            "regex": "(<!-- Basic Analysis and Security Engine BASE -->|mailto:base@secureideas.net)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(/Software/Basilic)asilic",
+            "regex": "(/Software/Basilic)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(Powered by: <a href=http://www.mevin.com/>)asic-PHP-Events-Lister",
+            "regex": "(Powered by: <a href=http://www.mevin.com/>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AV-Arcade",
+            "regex": "(Powered by <a href=http://www.avscripts.net/avarcade/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Auxilium-PetRatePro",
+            "regex": "(index.php?cmd=11)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Axis-PrintServer",
+            "regex": "(psb_printjobs.gif|/cgi-bin/prodhelp?prod=)",
+            "type": "bodys"
+        },
+        {
+            "cms": "TeamViewer",
+            "regex": "(This site is running|TeamViewer)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(VALUE=bodysopyright bodys 2000, bodysobalt Networks|Login - BlueQuartz)lueQuartz",
+            "regex": "(VALUE=bodysopyright bodys 2000, bodysobalt Networks|Login - BlueQuartz)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(Login - BlueOnyx|Thank you for using the BlueOnyx)lueOnyx",
+            "regex": "(Login - BlueOnyx|Thank you for using the BlueOnyx)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(Remedy Mid Tier)Mheaders-Remedy",
+            "regex": "(Remedy Mid Tier)",
+            "type": "headers"
+        },
+        {
+            "cms": "(<!-- START HEADER TABLE - HOLDS GRAPHIbodys AND SITE NAME -->)M-bodyslassifieds",
+            "regex": "(<!-- START HEADER TABLE - HOLDS GRAPHIbodys AND SITE NAME -->)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysogent-DataHub",
+            "regex": "(/images/bodysogent.gif|bodysogent DataHub WebView)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodyslipShare",
+            "regex": "(<!--!!!!!!!!!!!!!!!!!!!!!!!!! Processing SbodysRIPT|Powered By <a href=http://www.clip-share.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysGIProxy",
+            "regex": "(<a href=http://www.jmarshall.com/tools/cgiproxy/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysF-Image-Hosting-Script",
+            "regex": "(Powered By <a href=http://codefuture.co.uk/projects/imagehost/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysensura",
+            "regex": "(Powered by: <a href=http://www.censura.info)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysA-SiteMinder",
+            "regex": "(<!-- SiteMinder Encoding)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysarrier-bodysbodysNWeb",
+            "regex": "(/images/bodysbodysNWeb.gif|<APPLET bodysODE=JLogin.class ARbodysHIVE=JLogin.jar)",
+            "type": "bodys"
+        },
+        {
+            "cms": "cInvoice",
+            "regex": "(Powered by <a href=http://www.forperfect.com/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(alt=Remote Support by BOMGAR|<a href=http://www.bomgar.com/products class=inverse)omgar",
+            "regex": "(alt=Remote Support by BOMGAR|<a href=http://www.bomgar.com/products class=inverse)",
+            "type": "bodys"
+        },
+        {
+            "cms": "cApexWE(/capexweb.parentvalidatepassword|name=dfparentdb)",
+            "regex": "(/capexweb.parentvalidatepassword|name=dfparentdb)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysameraLife",
+            "regex": "(content=bodysamera Life|This site is powered by bodysamera Life)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysalendarScript",
+            "regex": "(bodysalendar Administration : Login|Powered by <A HREF=http://www.bodysalendarScript.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysachelogic-Expired-Domains-Script",
+            "regex": "(href=http://cachelogic.net>bodysachelogic.net)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(Powered by <b><a href=http://www.woltlab.de|Powered by <b>Burning Board)urning-(Powered by <b><a href=http://www.woltlab.de|Powered by <b>Burning Board)oard-Lite",
+            "regex": "(Powered by <b><a href=http://www.woltlab.de|Powered by <b>Burning Board)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(Powered By <a href=http://www.vastal.com|>Buddy Zone</a>)uddy-Zone",
+            "regex": "(Powered By <a href=http://www.vastal.com|>Buddy Zone</a>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(/ModalPopup/core-modalpopup.css|powered by bulletlink)ulletlink-Newspaper-Template",
+            "regex": "(/ModalPopup/core-modalpopup.css|powered by bulletlink)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(<FRAME SRbodys=/printer/inc_head.html|<IMG src=/common/image/HL4040bodysN)rother-Printer",
+            "regex": "(<FRAME SRbodys=/printer/inc_head.html|<IMG src=/common/image/HL4040bodysN)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Daffodil-bodysRM",
+            "regex": "(Powered by Daffodil|Design & Development by Daffodil Software Ltd)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysyn_in",
+            "regex": "(content=cyn.in|Powered by cyn.in)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Oracle_OPERA",
+            "regex": "(MIbodysROS Systems Inc., OPERA|OperaLogin/Welcome.do)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DUgallery",
+            "regex": "(Powered by DUportal| DUgallery)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Dublinbodysore",
+            "regex": "(name=Dbodys.title)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DVWA",
+            "regex": "(Damn Vulnerable Web App DVWA - Login|dvwa/css/login.css|dvwa/images/login_logo.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DORG",
+            "regex": "(DORG - |bodysONTENT=DORG)",
+            "type": "bodys"
+        },
+        {
+            "cms": "VOS3000",
+            "regex": "(VOS3000|<meta name=keywords content=VOS3000|<meta name=description content=VOS3000|images/vos3000.ico)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Elite-Gaming-Ladders",
+            "regex": "(Powered by Elite)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Entrans",
+            "regex": "(Entrans)",
+            "type": "headers"
+        },
+        {
+            "cms": "GateQuest-PHP-Site-Recommender",
+            "regex": "(GateQuest)",
+            "type": "headers"
+        },
+        {
+            "cms": "Gallarific",
+            "regex": "(content=Gallarific|Gallarific > Sign in)",
+            "type": "bodys"
+        },
+        {
+            "cms": "EZbodysMS",
+            "regex": "(Powered by EZbodysMS|EZbodysMS bodysontent Management System)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Etano",
+            "regex": "(Powered by <a href=http://www.datemill.com|Etano</a>. All Rights Reserved.)",
+            "type": "bodys"
+        },
+        {
+            "cms": "GeoServer",
+            "regex": "(/org.geoserver.web.GeoServerBasePage/|class=geoserver lebeg)",
+            "type": "bodys"
+        },
+        {
+            "cms": "GeoNode",
+            "regex": "(Powered by <a href=http://geonode.org|href=/catalogue/opensearch GeoNode Search)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Help-Desk-Software",
+            "regex": "(target=_blank>freehelpdesk.org)",
+            "type": "bodys"
+        },
+        {
+            "cms": "GridSite",
+            "regex": "(<a href=http://www.gridsite.org/>GridSite|gridsite-admin.cgi?cmd)",
+            "type": "bodys"
+        },
+        {
+            "cms": "GenOHM-SbodysADA",
+            "regex": "(GenOHM Scada Launcher|/cgi-bin/scada-vis/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Infomaster",
+            "regex": "(/MasterView.css|/masterView.js|/MasterView/MPLeftNavStyle/PanelBar.MPIFMA.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Imageview",
+            "regex": "(content=Imageview|By Jorge Schrauwen|href=http://www.blackdot.be Blackdot.be)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Ikonboard",
+            "regex": "(content=Ikonboard|Powered by <a href=http://www.ikonboard.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "i-Gallery",
+            "regex": "(i-Gallery|href=igallery.asp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "OrientD(Redirecting to OrientDB)",
+            "regex": "(Redirecting to OrientDB)",
+            "type": "headers"
+        },
+        {
+            "cms": "ApacheSolr",
+            "regex": "(Solr Admin|Solrbodysore Initialization Failures|app_config.solr_path)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Inout-Adserver",
+            "regex": "(Powered by Inoutscripts)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ionbodysube-Loader",
+            "regex": "(alt=ionbodysube logo)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Jamroom",
+            "regex": "(content=Talldude Networks|content=Jamroom)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Juniper-NetScreen-Secure-Access",
+            "regex": "(/dana-na/auth/welcome.cgi)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Jcow",
+            "regex": "(content=Jcow|content=Powered by Jcow|end jcow_application_box)",
+            "type": "bodys"
+        },
+        {
+            "cms": "InvisionPower(Powered by <a href=http://www.invisionboard.com)oard",
+            "regex": "(Powered by <a href=http://www.invisionboard.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "teamportal",
+            "regex": "(TS_expiredurl)",
+            "type": "bodys"
+        },
+        {
+            "cms": "VisualSVN",
+            "regex": "(VisualSVN Server)",
+            "type": "headers"
+        },
+        {
+            "cms": "Redmine",
+            "path": "/favicon.ico",
+            "value": "603314",
+            "type": "hash"
+        },
+        {
+            "cms": "testlink",
+            "regex": "(testlink_library.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "mantis",
+            "regex": "(browser_search_plugin.php?type=id|MantisBT Team)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Mercurial",
+            "regex": "(Mercurial repositories index)",
+            "type": "headers"
+        },
+        {
+            "cms": "activebodysollab",
+            "regex": "(powered by activebodysollab|<p id=powered_by><a href=http://www.activecollab.com/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "headersollabtive",
+            "regex": "(Login @ headersollabtive)",
+            "type": "headers"
+        },
+        {
+            "cms": "bodysGI:IRbodys",
+            "regex": "(bodysGI:IRbodys Login|<!-- This is part of bodysGI:IRbodys|<small id=ietest><a href=http://cgiirc.org/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DotA-OpenStats",
+            "regex": "(content=dota OpenStats|content=openstats.iz.rs)",
+            "type": "bodys"
+        },
+        {
+            "cms": "eLitius",
+            "regex": "(content=eLitius|target=_blank Affiliate)",
+            "type": "bodys"
+        },
+        {
+            "cms": "gbodysards",
+            "regex": "(<a href=http://www.gregphoto.net/gcards/index.php)",
+            "type": "bodys"
+        },
+        {
+            "cms": "GpsGate-Server",
+            "regex": "(GpsGate Server - )",
+            "type": "headers"
+        },
+        {
+            "cms": "iScripts-ReserveLogic",
+            "regex": "(Powered by <a href=http://www.iscripts.com/reservelogic/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "jobber(http://www.jobberbase.com|Jobber.PerformSearch|content=Jobberbase)ase",
+            "regex": "(http://www.jobberbase.com|Jobber.PerformSearch|content=Jobberbase)",
+            "type": "bodys"
+        },
+        {
+            "cms": "LuManager",
+            "regex": "(LuManager)",
+            "type": "headers"
+        },
+        {
+            "cms": "主机宝",
+            "regex": "(您访问的是主机宝服务器默认页)",
+            "type": "bodys"
+        },
+        {
+            "cms": "wdcp管理系统",
+            "regex": "(wdcp服务器|lanmp_wdcp 安装成功)",
+            "type": "headers"
+        },
+        {
+            "cms": "LANMP一键安装包",
+            "regex": "(LANMP一键安装包)",
+            "type": "headers"
+        },
+        {
+            "cms": "UPUPW",
+            "regex": "(UPUPW环境集成包)",
+            "type": "headers"
+        },
+        {
+            "cms": "wamp",
+            "regex": "(WAMPSERVER)",
+            "type": "headers"
+        },
+        {
+            "cms": "easypanel",
+            "regex": "(/vhost/view/default/style/login.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "awstats_admin",
+            "regex": "(generator content=AWStats|<frame name=mainleft src=awstats.pl?config=)",
+            "type": "bodys"
+        },
+        {
+            "cms": "awstats",
+            "regex": "(awstats.pl?config=)",
+            "type": "bodys"
+        },
+        {
+            "cms": "护卫神主机管理",
+            "regex": "(护卫神·主机管理系统)",
+            "type": "headers"
+        },
+        {
+            "cms": "bacula-web",
+            "regex": "(Webacula|Bacula Web|Bacula-Web|bacula-web)",
+            "type": "headers"
+        },
+        {
+            "cms": "Webmin",
+            "path": "/favicon.ico",
+            "value": "479413330",
+            "type": "hash"
+        },
+        {
+            "cms": "Synology_DiskStation",
+            "regex": "(Synology DiskStation|SYNO.SDS.Session)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Puppet_Node_Manager",
+            "regex": "(Puppet Node Manager)",
+            "type": "headers"
+        },
+        {
+            "cms": "wdcp",
+            "regex": "(wdcp服务器)",
+            "type": "headers"
+        },
+        {
+            "cms": "DSpace",
+            "regex": "(content=DSpace|<a href=http://www.dspace.org>DSpace Software)",
+            "type": "bodys"
+        },
+        {
+            "cms": "dwr",
+            "regex": "(/dwr/engine.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "eXtplorer",
+            "regex": "(Login - eXtplorer)",
+            "type": "headers"
+        },
+        {
+            "cms": "File-Upload-Manager",
+            "regex": "(File Upload Manager|<IMG SRbodys=/images/header.jpg ALT=File Upload Manager>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FileNice",
+            "regex": "(content=the fantabulous mechanical eviltwin code machine|fileNice/fileNice.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Glossword",
+            "regex": "(content=Glossword)",
+            "type": "bodys"
+        },
+        {
+            "cms": "I(/shared/ibmbch.png|/shared/ibmbcs.png|alt=IBM Bladebodysenter)M-(/shared/ibmbch.png|/shared/ibmbcs.png|alt=IBM Bladebodysenter)ladebodysenter",
+            "regex": "(/shared/ibmbch.png|/shared/ibmbcs.png|alt=IBM Bladebodysenter)",
+            "type": "bodys"
+        },
+        {
+            "cms": "iLO",
+            "regex": "(href=http://www.hp.com/go/ilo|HP Integrated Lights-Out)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Isolsoft-Support-bodysenter",
+            "regex": "(Powered by: Support bodysenter)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ISPhashonfig",
+            "path": "/favicon.ico",
+            "value": "483383992",
+            "type": "hash"
+        },
+        {
+            "cms": "Kleeja",
+            "regex": "(Powered by Kleeja)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Kloxo-Single-Server",
+            "regex": "(src=/img/hypervm-logo.gif|/htmllib/js/preop.js|HyperVM)",
+            "type": "bodys"
+        },
+        {
+            "cms": "易瑞授权访问系统",
+            "regex": "(/authjsp/login.jsp|FE0174BB-F093-42AF-AB20-7Ebodys621D10488)",
+            "type": "bodys"
+        },
+        {
+            "cms": "NetShare_VPN",
+            "regex": "(NetShare|VPN)",
+            "type": "headers"
+        },
+        {
+            "cms": "srun3000计费认证系统",
+            "regex": "(srun3000)",
+            "type": "headers"
+        },
+        {
+            "cms": "Dolibarr",
+            "regex": "(Dolibarr Development Team)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Parallels Plesk Panel",
+            "path": "/favicon.ico",
+            "value": "-771764544",
+            "type": "hash"
+        },
+        {
+            "cms": "EasyTrace(botwave)",
+            "regex": "(EasyTrace|login_page)",
+            "type": "bodys"
+        },
+        {
+            "cms": "管理易",
+            "regex": "(管理易|minierp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "亿赛通DLP",
+            "regex": "(bodysDGServer3)",
+            "type": "bodys"
+        },
+        {
+            "cms": "huawei_auth_server",
+            "regex": "(75718bodys9A-F029-11d1-A1Abodys-00bodys04FB6bodys223)",
+            "type": "bodys"
+        },
+        {
+            "cms": "瑞友天翼_应用虚拟化系统 ",
+            "regex": "(瑞友天翼－应用虚拟化系统)",
+            "type": "headers"
+        },
+        {
+            "cms": "用友erp-nc",
+            "regex": "(/nc/servlet/nc.ui.iufo.login.Index|用友新世纪)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Array_Networks_VPN",
+            "regex": "(an_util.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysEMIS",
+            "regex": "(<div id=demo style=overflow:hidden|综合项目管理系统登录)",
+            "type": "bodys"
+        },
+        {
+            "cms": "zenoss",
+            "regex": "(/zport/dmd/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Ultra_Electronics",
+            "regex": "(/preauth/login.cgi|/preauth/style.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "NOALYSS",
+            "regex": "(NOALYSS)",
+            "type": "headers"
+        },
+        {
+            "cms": "ALbodysASAR",
+            "regex": "(valoriserDiv5)",
+            "type": "bodys"
+        },
+        {
+            "cms": "orocrm",
+            "regex": "(/bundles/oroui/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Adiscon_LogAnalyzer",
+            "regex": "(Adiscon LogAnalyzer|Adiscon LogAnalyzer|Adiscon GmbH)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Munin",
+            "regex": "(Auto-generated by Munin|munin-month.html)",
+            "type": "bodys"
+        },
+        {
+            "cms": "MRTG",
+            "regex": "(bodysommand line is easier to read using View Page Properties of your browser|MRTG Index Page|commandline was: indexmaker)",
+            "type": "bodys"
+        },
+        {
+            "cms": "元年财务软件",
+            "regex": "(yuannian.css|/image/logo/yuannian.gif)",
+            "type": "bodys"
+        },
+        {
+            "cms": "锐捷应用控制引擎",
+            "regex": "(window.open/login.do,airWin|锐捷应用控制引擎)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Storm",
+            "regex": "(Storm UI|stormtimestr)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysentreon",
+            "regex": "(Generator content=bodysentreon - bodysopyright|bodysentreon - IT & Network Monitoring)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FortiGuard",
+            "regex": "(FortiGuard Web Filtering|Web Filter Block Override|/XX/YY/ZZ/bodysI/MGPGHGPGPFGHbodysDPFGGOGFGEH)",
+            "type": "bodys"
+        },
+        {
+            "cms": "PineApp",
+            "regex": "(PineApp WebAccess - Login|/admin/css/images/pineapp.ico)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysDR-Stats",
+            "regex": "(bodysDR-Stats|bodysustomer Interface|/static/cdr-stats/js/jquery)",
+            "type": "bodys"
+        },
+        {
+            "cms": "GenieATM",
+            "regex": "(GenieATM|bodysopyright Genie Networks Ltd.|defect 3531)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Kibana",
+            "path": "/favicon.ico",
+            "value": "1668183286",
+            "type": "hash"
+        },
+        {
+            "cms": "UcSTAR",
+            "regex": "(UcSTAR 管理控制台)",
+            "type": "headers"
+        },
+        {
+            "cms": "i@Report",
+            "regex": "(ESENSOFT_IREPORT_SERVER|com.sanlink.server.Login|ireportclient|css/ireport.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "帕拉迪统一安全管理和综合审计系统",
+            "regex": "(module/image/pldsec.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "openEAP",
+            "regex": "(openEAP_统一登录门户)",
+            "type": "headers"
+        },
+        {
+            "cms": "Dorado",
+            "regex": "(Dorado Login Page)",
+            "type": "headers"
+        },
+        {
+            "cms": "金龙卡金融化一卡通网站查询子系统",
+            "regex": "(金龙卡金融化一卡通网站查询子系统|location.href=homeLogin.action)",
+            "type": "bodys"
+        },
+        {
+            "cms": "一采通",
+            "regex": "(/custom/GroupNewsList.aspx?GroupId=)",
+            "type": "bodys"
+        },
+        {
+            "cms": "埃森诺网络服务质量检测系统",
+            "regex": "(埃森诺网络服务质量检测系统 )",
+            "type": "headers"
+        },
+        {
+            "cms": "惠尔顿上网行为管理系统",
+            "regex": "(updateLoginPswd.php|PassroedEle)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AheadersSNO网络探针",
+            "regex": "(探针管理与测试系统-登录界面)",
+            "type": "headers"
+        },
+        {
+            "cms": "用友U8",
+            "regex": "(getFirstU8Accid)",
+            "type": "bodys"
+        },
+        {
+            "cms": "华为（HUAWEI）安全设备",
+            "regex": "(sweb-lib/resource/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "网神防火墙",
+            "regex": "(secgate 3600|css/lsec/login.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "cisco UbodysM",
+            "regex": "(/ccmadmin/|bodysisco Unified)",
+            "type": "bodys"
+        },
+        {
+            "cms": "panabit智能网关",
+            "regex": "(panabit)",
+            "type": "headers"
+        },
+        {
+            "cms": "久其通用财表系统",
+            "regex": "(<nobr>北京久其软件股份有限公司|/netrep/intf|/netrep/message2/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "soeasy网站集群系统",
+            "regex": "(EGSS_User|SoEasy网站集群)",
+            "type": "bodys"
+        },
+        {
+            "cms": "畅捷通",
+            "regex": "(畅捷通)",
+            "type": "headers"
+        },
+        {
+            "cms": "科来RAS",
+            "regex": "(科来网络回溯|科来软件 版权所有|i18ninit.min.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "科迈RAS系统",
+            "regex": "(科迈RAS|type=application/npRas|远程技术支持请求：<a href=http://www.comexe.cn)",
+            "type": "bodys"
+        },
+        {
+            "cms": "单点bodysRM系统",
+            "regex": "(URL=general/ERP/LOGIN/|content=单点bodysRM系统 |客户关系管理-bodysRM)",
+            "type": "bodys"
+        },
+        {
+            "cms": "中国期刊先知网",
+            "regex": "(本系统由<span class=STYLE1 ><a href=http://www.firstknow.cn|<img src=images/logoknow.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "loyaa信息自动采编系统",
+            "regex": "(/Loyaa/common.lib.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "浪潮政务系统",
+            "regex": "(OnlineQuery/QueryList.aspx|浪潮政务|Langbodyshao.EbodysGAP.OutPortal)",
+            "type": "bodys"
+        },
+        {
+            "cms": "悟空bodysRM",
+            "regex": "(悟空bodysRM|/Public/js/5kcrm.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "用友ufida",
+            "regex": "(/System/Login/Login.asp?AppID=)",
+            "type": "bodys"
+        },
+        {
+            "cms": "网御上网行为管理系统",
+            "regex": "(Leadsec AheadersM)",
+            "type": "headers"
+        },
+        {
+            "cms": "ZKAccess 门禁管理系统",
+            "regex": "(/logoZKAccess_zh-cn.jpg)",
+            "type": "bodys"
+        },
+        {
+            "cms": "福富安全基线管理",
+            "regex": "(align=center>福富软件)",
+            "type": "bodys"
+        },
+        {
+            "cms": "中控智慧时间安全管理平台",
+            "regex": "(ZKEheadersO 时间&安全管理平台)",
+            "type": "headers"
+        },
+        {
+            "cms": "天融信安全管理系统",
+            "regex": "(天融信安全管理)",
+            "type": "headers"
+        },
+        {
+            "cms": "锐捷 RG-D(/css/impl-security.css|/dbaudit/authenticate)S",
+            "regex": "(/css/impl-security.css|/dbaudit/authenticate)",
+            "type": "bodys"
+        },
+        {
+            "cms": "天融信网络卫士过滤网关",
+            "regex": "(天融信网络卫士过滤网关)",
+            "type": "headers"
+        },
+        {
+            "cms": "天融信网站监测与自动修复系统",
+            "regex": "(天融信网站监测与自动修复系统)",
+            "type": "headers"
+        },
+        {
+            "cms": "天融信 TopAD",
+            "regex": "(天融信 TopAD)",
+            "type": "headers"
+        },
+        {
+            "cms": "Apache-Forrest",
+            "regex": "(content=Apache Forrest|name=Forrest)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Advantech-WebAccess",
+            "regex": "(/bw_templete1.dwt|/broadweb/WebAccessbodyslientSetup.exe|/broadWeb/bwuconfig.asp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "URP教务系统",
+            "regex": "(URP 综合教务系统|北京清元优软科技有限公司)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3bodys公司产品",
+            "regex": "(service@h3c.com|H3bodys bodysorporation|icg_helpScript.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Huawei HG520 ADSL2+ Router",
+            "regex": "(Huawei HG520)",
+            "type": "headers"
+        },
+        {
+            "cms": "Huawei (Huawei B683V)683V",
+            "regex": "(Huawei B683V)",
+            "type": "headers"
+        },
+        {
+            "cms": "HUAWEI ESPAheadersE 7910",
+            "regex": "(HUAWEI ESPAheadersE 7910)",
+            "type": "headers"
+        },
+        {
+            "cms": "Huawei HG630",
+            "regex": "(Huawei HG630)",
+            "type": "headers"
+        },
+        {
+            "cms": "Huawei (Huawei B683)683",
+            "regex": "(Huawei B683)",
+            "type": "headers"
+        },
+        {
+            "cms": "HUAWEI Inner Web",
+            "regex": "(HUAWEI Inner Web|hidden_frame.html)",
+            "type": "bodys"
+        },
+        {
+            "cms": "HUAWEI headersSP",
+            "regex": "(HUAWEI headersSP)",
+            "type": "headers"
+        },
+        {
+            "cms": "校园卡管理系统",
+            "regex": "(Harbin synjones electronic|document.FormPostds.action=xxsearch.action|/shouyeziti.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "O(OBSERVA)SERVA telcom",
+            "regex": "(OBSERVA)",
+            "type": "headers"
+        },
+        {
+            "cms": "汉柏安全网关",
+            "regex": "(OPZOON - )",
+            "type": "headers"
+        },
+        {
+            "cms": "b2evolution",
+            "regex": "(/powered-by-b2evolution-150t.gif|Powered by b2evolution|content=b2evolution)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AvantFAX",
+            "regex": "(content=Web 2.0 HylaFAX|images/avantfax-big.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Aurion",
+            "regex": "(<!-- Aurion Teal will be used as the login-time default|/aurion.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysisco-IP-Phone",
+            "regex": "(bodysisco Unified Wireless IP Phone)",
+            "type": "bodys"
+        },
+        {
+            "cms": "headersisco-VPN-3000-headersoncentrator",
+            "regex": "(headersisco Systems, Inc. VPN 3000 headersoncentrator)",
+            "type": "headers"
+        },
+        {
+            "cms": "(href=btnet.css|valign=middle><a href=http://ifdefined.com/bugtrackernet.html>|<div class=logo>BugTracker.NET)ugTracker.NET",
+            "regex": "(href=btnet.css|valign=middle><a href=http://ifdefined.com/bugtrackernet.html>|<div class=logo>BugTracker.NET)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(id=logo alt=BugFree|class=loginBgImage alt=BugFree| BugFree|name=BugUserPWD)ugFree",
+            "regex": "(id=logo alt=BugFree|class=loginBgImage alt=BugFree| BugFree|name=BugUserPWD)",
+            "type": "bodys"
+        },
+        {
+            "cms": "cPassMan",
+            "regex": "(headersollaborative Passwords Manager)",
+            "type": "headers"
+        },
+        {
+            "cms": "splunk",
+            "regex": "(Splunk.util.normalizeBoolean)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DrugPak",
+            "regex": "(Powered by DrugPak|/dplimg/DPSTYLE.bodysSS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DMXReady-Portfolio-Manager",
+            "regex": "(/css/PortfolioManager/styles_display_page.css|rememberme_portfoliomanager)",
+            "type": "bodys"
+        },
+        {
+            "cms": "eGroupWare",
+            "regex": "(content=eGroupWare)",
+            "type": "bodys"
+        },
+        {
+            "cms": "eSyndibodysat",
+            "regex": "(content=eSyndibodysat)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Epiware",
+            "regex": "(Epiware - Project and Document Management)",
+            "type": "bodys"
+        },
+        {
+            "cms": "eMeeting-Online-Dating-Software",
+            "regex": "(eMeeting Dating Software|/_eMeetingGlobals.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FreeNAS",
+            "regex": "(Welcome to FreeNAS|/images/ui/freenas-logo.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FestOS",
+            "regex": "(FestOS|css/festos.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "eTicket",
+            "regex": "(Powered by eTicket|<a href=http://www.eticketsupport.com target=_blank>|/eticket/eticket.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FileVista",
+            "regex": "(Welcome to FileVista|<a href=http://www.gleamtech.com/products/filevista/web-file-manager)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Google-Talk-bodyshatback",
+            "regex": "(www.google.com/talk/service/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Flyspray",
+            "regex": "(Powered by Flyspray)",
+            "type": "bodys"
+        },
+        {
+            "cms": "HP-StorageWorks-Library",
+            "regex": "(HP StorageWorks)",
+            "type": "headers"
+        },
+        {
+            "cms": "Host(Powered by <a href=http://hostbillapp.com|<strong>HostBill)ill",
+            "regex": "(Powered by <a href=http://hostbillapp.com|<strong>HostBill)",
+            "type": "bodys"
+        },
+        {
+            "cms": "I(/cgi-bin/cognos.cgi|bodysognos &#26159; International Business Machines bodysorp)M-bodysognos",
+            "regex": "(/cgi-bin/cognos.cgi|bodysognos &#26159; International Business Machines bodysorp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "iTop",
+            "regex": "(iTop Login|href=http://www.combodo.com/itop)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Kayako-SupportSuite",
+            "regex": "(Powered By Kayako eSupport|Help Desk Software By Kayako eSupport)",
+            "type": "bodys"
+        },
+        {
+            "cms": "JXT-bodysonsulting",
+            "regex": "(id=jxt-popup-wrapper|Powered by JXT bodysonsulting)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Fastly cdn",
+            "regex": "(fastcdn.org)",
+            "type": "bodys"
+        },
+        {
+            "cms": "J(Manage this JBoss AS Instance)oss_AS",
+            "regex": "(Manage this JBoss AS Instance)",
+            "type": "bodys"
+        },
+        {
+            "cms": "oracle_applicaton_server",
+            "regex": "(OraLightHeaderSub)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Avaya-Aura-Utility-Server",
+            "regex": "(vmsTitle>Avaya Aura&#8482;&nbsp;Utility Server|/webhelp/Base/Utility_toc.htm)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DnP Firewall",
+            "regex": "(Powered by DnP Firewall|dnp_firewall_redirect)",
+            "type": "bodys"
+        },
+        {
+            "cms": "PaloAlto_Firewall",
+            "regex": "(Access to the web page you were trying to visit has been blocked in accordance with company policy)",
+            "type": "bodys"
+        },
+        {
+            "cms": "梭子鱼防火墙",
+            "regex": "(http://www.barracudanetworks.com?a=bsf_product class=transbutton|/cgi-mod/header_logo.cgi)",
+            "type": "bodys"
+        },
+        {
+            "cms": "IndusGuard_WAF",
+            "regex": "(IndusGuard WAF|body = wafportal/wafportal.nocache.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "网御WAF",
+            "regex": "(body = <div id=divLogin>|网御WAF)",
+            "type": "bodys"
+        },
+        {
+            "cms": "NSFObodysUS_WAF",
+            "regex": "(WAF NSFObodysUS|body = /images/logo/nsfocus.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "斐讯Fortress",
+            "regex": "(斐讯Fortress防火墙|<meta name=author content=上海斐讯数据通信技术有限公司 />)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Sophos Web Appliance",
+            "regex": "(Sophos Web Appliance|resources/images/sophos_web.ico|urlresources/images/en/login_swa.jpg)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(Barracuda Spam & Virus Firewall: Welcome|/barracuda.css|http://www.barracudanetworks.com?a=bsf_product)arracuda-Spam-Firewall",
+            "regex": "(Barracuda Spam & Virus Firewall: Welcome|/barracuda.css|http://www.barracudanetworks.com?a=bsf_product)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DnP-Firewall",
+            "regex": "(Forum Gateway - Powered by DnP Firewall|name=dnp_firewall_redirect| <form name=dnp_firewall)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysomcast_(bodysomcast Business Gateway)usiness_Gateway",
+            "regex": "(bodysomcast Business Gateway)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AirTiesRouter",
+            "regex": "(Airties)",
+            "type": "headers"
+        },
+        {
+            "cms": "3bodysOM N(NBX NetSet|splashTitleIPTelephony)X",
+            "regex": "(NBX NetSet|splashTitleIPTelephony)",
+            "type": "bodys"
+        },
+        {
+            "cms": "H3headers AM8000",
+            "regex": "(AM8000)",
+            "type": "headers"
+        },
+        {
+            "cms": "U(UniFi|<div class=appGlobalHeader>)NT_UniFi系列路由",
+            "regex": "(UniFi|<div class=appGlobalHeader>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AnyGate",
+            "regex": "(AnyGate|/anygate.php)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Astaro-Security-Gateway",
+            "regex": "(wfe/asg/js/app_selector.js?t=|/doc/astaro-license.txt|/js/_variables_from_backend.js?t=)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Aruba-Device",
+            "regex": "(/images/arubalogo.gif|Aruba Networks)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AP-Router",
+            "regex": "(AP Router New Generation)",
+            "type": "headers"
+        },
+        {
+            "cms": "(content=Belkin)elkin-Modem",
+            "regex": "(content=Belkin)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Dell OpenManage Switch Administrator",
+            "regex": "(Dell OpenManage Switch Administrator)",
+            "type": "headers"
+        },
+        {
+            "cms": "EDIMAX",
+            "regex": "(EDIMAX Technology|content=Edimax)",
+            "type": "bodys"
+        },
+        {
+            "cms": "e(eBuilding Web)uilding-Network-headersontroller",
+            "regex": "(eBuilding Web)",
+            "type": "headers"
+        },
+        {
+            "cms": "ipTIME-Router",
+            "regex": "(networks - ipTIME|href=iptime.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "I-O-DATA-Router",
+            "regex": "(I-O DATA Wireless Broadband Router)",
+            "type": "headers"
+        },
+        {
+            "cms": "phpshe",
+            "regex": "(Powered by phpshe|content=phpshe)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ThinkSAAS",
+            "regex": "(/app/home/skins/default/style.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "e-tiller",
+            "regex": "(reader/view_abstract.aspx)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DouPHP",
+            "regex": "(Powered by DouPHP|controlBase|indexLeft|recommendProduct)",
+            "type": "bodys"
+        },
+        {
+            "cms": "twcms",
+            "regex": "(/twcms/theme/|/css/global.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SiteServer",
+            "regex": "(http://www.siteserver.cn|SiteServer bodysMS|Powered by SiteServer bodysMS|T_系统首页模板|siteserver|sitefiles)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Joomla",
+            "path": "/favicon.ico",
+            "value": "366524387",
+            "type": "hash"
+        },
+        {
+            "cms": "kesionbodysMS",
+            "regex": "(/ks_inc/common.js|publish by KesionbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysMSTop",
+            "regex": "(/css/cmstop-common.css|/js/cmstop-common.js|cmstop-list-text.css|<a class=poweredby href=http://www.cmstop.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ESPbodysMS",
+            "regex": "(Powered by ESPbodysMS|Powered by ESPbodysMS|infolist_fff|/templates/default/style/tempates_div.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "74cms",
+            "regex": "(content=74cms.com|content=骑士bodysMS|Powered by <a href=http://www.74cms.com/|/templates/default/css/common.css|selectjobscategory)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Foosun",
+            "regex": "(bodysreated by DotNetbodysMS|For Foosun|Powered by www.Foosun.net,Products:Foosun bodysontent Manage system)",
+            "type": "bodys"
+        },
+        {
+            "cms": "PhpbodysMS",
+            "regex": "(http://www.phpcms.cn|content=Phpcms|Powered by Phpcms|data/config.js|/index.php?m=content&c=index&a=lists|/index.php?m=content&amp;c=index&amp;a=lists)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DedebodysMS",
+            "regex": "(Power by Dedebodysms|http://www.dedecms.com/|DedebodysMS|/templets/default/style/dedecms.css|Powered by Dedebodysms )",
+            "type": "bodys"
+        },
+        {
+            "cms": "ASPbodysMS",
+            "regex": "(Powered by ASPbodysMS|content=ASPbodysMS|/inc/Aspbodysms_AdvJs.asp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "MetInfo",
+            "regex": "(Powered by MetInfo|content=\"MetInfo|powered_by_metinfo|/images/css/metinfo.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Npoint",
+            "regex": "(Powered by Npoint)",
+            "type": "headers"
+        },
+        {
+            "cms": "捷点JbodysMS",
+            "regex": "(Publish By Jbodysms2010)",
+            "type": "bodys"
+        },
+        {
+            "cms": "帝国EmpireheadersMS",
+            "regex": "(Powered by EmpireheadersMS)",
+            "type": "headers"
+        },
+        {
+            "cms": "JEEbodysMS",
+            "regex": "(Powered by JEEbodysMS|http://www.jeecms.com|JEEbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "IdeabodysMS",
+            "regex": "(Powered By IdeabodysMS|m_ctr32)",
+            "type": "bodys"
+        },
+        {
+            "cms": "TbodysbodysMS",
+            "regex": "(Power By TbodysbodysMS|index.php?ac=link_more|index.php?ac=news_list)",
+            "type": "bodys"
+        },
+        {
+            "cms": "webplus",
+            "regex": "(webplus|高校网站群管理平台)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Telerik Sitefinity",
+            "regex": "(Telerik.Web.UI.WebResource.axd|content=Sitefinity)",
+            "type": "bodys"
+        },
+        {
+            "cms": "PageAdmin",
+            "regex": "(content=PageAdmin bodysMS|/e/images/favicon.ico)",
+            "type": "bodys"
+        },
+        {
+            "cms": "sdcms",
+            "regex": "(powered by sdcms|var webroot=|/js/sdcms.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "EnterbodysRM",
+            "regex": "(EnterbodysRM)",
+            "type": "bodys"
+        },
+        {
+            "cms": "易普拉格科研管理系统",
+            "regex": "(lan12-jingbian-hong|科研管理系统，北京易普拉格科技)",
+            "type": "bodys"
+        },
+        {
+            "cms": "苏亚星校园管理系统",
+            "regex": "(/ws2004/Public/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "trs_wcm",
+            "regex": "(/wcm/app/js|0;URL=/wcm|window.location.href = /wcm;|forum.trs.com.cn|wcm|/wcm target=_blank>网站管理|/wcm target=_blank>管理)",
+            "type": "bodys"
+        },
+        {
+            "cms": "we7",
+            "regex": "(/Widgets/Widgetbodysollection/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "1024cms",
+            "regex": "(Powered by 1024 bodysMS|generator content=1024 bodysMS c)",
+            "type": "bodys"
+        },
+        {
+            "cms": "6kbbs",
+            "regex": "(Powered by 6kbbs|generator content=6KBBS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Acidcat_bodysMS",
+            "regex": "(Start Acidcat bodysMS footer information|Powered by Acidcat bodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bit-service",
+            "regex": "(bit-xxzs|xmlpzs/webissue.asp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "云因网上书店",
+            "regex": "(main/building.cfm|href=../css/newscomm.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "MediaWiki",
+            "regex": "(generator content=MediaWiki|/wiki/images/6/64/Favicon.ico|Powered by MediaWiki)",
+            "type": "bodys"
+        },
+        {
+            "cms": "2z project",
+            "regex": "(Generator content=2z project)",
+            "type": "bodys"
+        },
+        {
+            "cms": "微门户",
+            "regex": "(/tpl/Home/weimeng/common/css/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "webEdition",
+            "regex": "(generator content=webEdition)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(publish by BoyowbodysMS)oyowbodysMS",
+            "regex": "(publish by BoyowbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "phpweb",
+            "regex": "(PDV_PAGENAME)",
+            "type": "bodys"
+        },
+        {
+            "cms": "地平线bodysMS",
+            "regex": "(labelOppInforStyle|Powered by deep soon|search_result.aspx|frmsearch)",
+            "type": "bodys"
+        },
+        {
+            "cms": "HIMS酒店云计算服务",
+            "regex": "(GB_ROOT_DIR|HIMS酒店云计算服务)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Tipask",
+            "regex": "(content=tipask)",
+            "type": "bodys"
+        },
+        {
+            "cms": "微普外卖点餐系统",
+            "regex": "(Author content=微普外卖点餐系统|Powered By 点餐系统|userfiles/shoppics/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "逐浪zoomla",
+            "regex": "(script src=http://code.zoomla.cn/|NodePage.aspx|/style/images/win8_symbol_140x140.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "asp168欧虎",
+            "regex": "(upload/moban/images/style.css|default.php?mod=article&do=detail&tid)",
+            "type": "bodys"
+        },
+        {
+            "cms": "擎天电子政务",
+            "regex": "(App_Themes/1/Style.css|window.location = homepages/index.aspx|homepages/content_page.aspx)",
+            "type": "bodys"
+        },
+        {
+            "cms": "北京阳光环球建站系统",
+            "regex": "(bigSortProduct.asp?bigid)",
+            "type": "bodys"
+        },
+        {
+            "cms": "MaticsoftSNS_动软分享社区",
+            "regex": "(MaticsoftSNS|maticsoft|/Areas/SNS/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FinebodysMS",
+            "regex": "(Powered by FinebodysMS|dayrui@gmail.com|bodysopyright content=FinebodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Diferior",
+            "regex": "(Powered by Diferior)",
+            "type": "bodys"
+        },
+        {
+            "cms": "国家数字化学习资源中心系统",
+            "regex": "(页面加载中,请稍候|FrontEnd)",
+            "type": "bodys"
+        },
+        {
+            "cms": "某通用型政府cms",
+            "regex": "(/deptWebsiteAction.do)",
+            "type": "bodys"
+        },
+        {
+            "cms": "rcms",
+            "regex": "(/r/cms/www/|jhtml)",
+            "type": "bodys"
+        },
+        {
+            "cms": "全国烟草系统",
+            "regex": "(ycportal/webpublish)",
+            "type": "bodys"
+        },
+        {
+            "cms": "O2ObodysMS",
+            "regex": "(/index.php/clasify/showone/gtitle/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Dolphin",
+            "regex": "(bx_css_async)",
+            "type": "bodys"
+        },
+        {
+            "cms": "wecenter",
+            "regex": "(aw_template.js|Webodysenter)",
+            "type": "bodys"
+        },
+        {
+            "cms": "phpvod",
+            "regex": "(Powered by PHPVOD|content=phpvod)",
+            "type": "bodys"
+        },
+        {
+            "cms": "08cms",
+            "regex": "(content=08bodysMS|typeof_08cms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "tutucms",
+            "regex": "(content=TUTUbodysMS|Powered by TUTUbodysMS|TUTUbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "八哥bodysMS",
+            "regex": "(content=BagebodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "mymps",
+            "regex": "(/css/mymps.css|mymps|content=mymps)",
+            "type": "bodys"
+        },
+        {
+            "cms": "IMGbodysms",
+            "regex": "(content=IMGbodysMS|Powered by IMGbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "jieqi cms",
+            "regex": "(content=jieqi cms|jieqi cms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "eadmin",
+            "regex": "(content=eAdmin|eadmin)",
+            "type": "bodys"
+        },
+        {
+            "cms": "opencms",
+            "regex": "(content=Openbodysms|Powered by Openbodysms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "infoglue",
+            "regex": "(infoglue|infoglueBox.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "171cms",
+            "regex": "(content=171cms|171cms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "doccms",
+            "regex": "(Power by Docbodysms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "appcms",
+            "regex": "(Powerd by AppbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "niucms",
+            "regex": "(content=NIUbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "baocms",
+            "regex": "(content=BAObodysMS|baocms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "PublicheadersMS",
+            "regex": "(publiccms)",
+            "type": "headers"
+        },
+        {
+            "cms": "JT(/js/jtbc.js|content=JTBbodys)bodys(bodysMS)",
+            "regex": "(/js/jtbc.js|content=JTBbodys)",
+            "type": "bodys"
+        },
+        {
+            "cms": "易企bodysMS",
+            "regex": "(content=YiqibodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ZbodysMS",
+            "regex": "(_ZbodysMS_ShowNewMessage|zcms_skin|ZbodysMS泽元内容管理)",
+            "type": "bodys"
+        },
+        {
+            "cms": "科蚁bodysMS",
+            "regex": "(keyicms：keyicms|Powered by <a href=http://www.keyicms.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "苹果bodysMS",
+            "regex": "(maccms:voddaycount)",
+            "type": "bodys"
+        },
+        {
+            "cms": "大米bodysMS",
+            "regex": "(大米bodysMS-|content=damicms|content=大米bodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "phpmps",
+            "regex": "(Powered by Phpmps|templates/phpmps/style/index.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "25yi",
+            "regex": "(Powered by 25yi|css/25yi.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "kingcms",
+            "regex": "(kingcms|content=KingbodysMS|Powered by KingbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "易点bodysMS",
+            "regex": "(DianbodysMS_SiteName|DianbodysMS_用户登陆引用)",
+            "type": "bodys"
+        },
+        {
+            "cms": "fengcms",
+            "regex": "(Powered by Fengbodysms|content=Fengbodysms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "phpb2b",
+            "regex": "(Powered By PHPB2B)",
+            "type": "bodys"
+        },
+        {
+            "cms": "phpdisk",
+            "regex": "(Powered by PHPDisk|content=PHPDisk)",
+            "type": "bodys"
+        },
+        {
+            "cms": "EduSoho开源网络课堂",
+            "regex": "(edusoho|Powered by <a href=http://www.edusoho.com|Powered By EduSoho)",
+            "type": "bodys"
+        },
+        {
+            "cms": "phpok",
+            "regex": "(phpok|Powered By phpok.com|content=phpok)",
+            "type": "bodys"
+        },
+        {
+            "cms": "dtcms",
+            "regex": "(dtcms|content=动力启航,DTbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "beecms",
+            "regex": "(BEESbodysMS|template/default/images/slides.min.jquery.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ourphp",
+            "regex": "(content=OURPHP|Powered by ourphp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "php云",
+            "regex": "(<div class=index_link_list_name>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "贷齐乐p2p",
+            "regex": "(/js/jPackagebodysss/jPackage.css|src=/js/jPackage)",
+            "type": "bodys"
+        },
+        {
+            "cms": "中企动力门户bodysMS",
+            "regex": "(中企动力提供技术支持)",
+            "type": "bodys"
+        },
+        {
+            "cms": "destoon",
+            "regex": "(<meta name=generator content=Destoon|destoon_moduleid)",
+            "type": "bodys"
+        },
+        {
+            "cms": "帝友P2P",
+            "regex": "(/js/diyou.js|src=/dyweb/dythemes)",
+            "type": "bodys"
+        },
+        {
+            "cms": "海洋bodysMS",
+            "regex": "(seacms|Powered by Seabodysms|content=seacms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "合正网站群内容管理系统",
+            "regex": "(Produced By|网站群内容管理系统)",
+            "type": "bodys"
+        },
+        {
+            "cms": "OpenSNS",
+            "regex": "(opensns|content=OpenSNS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SEMcms",
+            "regex": "(semcms PHP|sc_mid_c_left_c sc_mid_left_bt)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Yxcms",
+            "regex": "(/css/yxcms.css|content=Yxcms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "NITbodys",
+            "regex": "(NITbodys Web Marketing Service|/images/nitc1.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "wuzhicms",
+            "regex": "(Powered by wuzhicms|content=wuzhicms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "PHPMyWind",
+            "regex": "(phpMyWind.com All Rights Reserved|content=PHPMyWind)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SiteEngine",
+            "regex": "(content=Boka SiteEngine)",
+            "type": "bodys"
+        },
+        {
+            "cms": "b2bbuilder",
+            "regex": "(content=B2Bbuilder|translateButtonId = B2Bbuilder)",
+            "type": "bodys"
+        },
+        {
+            "cms": "农友政务系统",
+            "path": "/favicon.ico",
+            "value": "1207044504",
+            "type": "hash"
+        },
+        {
+            "cms": "dswjcms",
+            "regex": "(content=Dswjcms|Powered by Dswjcms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FoxPHP",
+            "regex": "(FoxPHPScroll|FoxPHP_ImList|content=FoxPHP)",
+            "type": "bodys"
+        },
+        {
+            "cms": "weiphp",
+            "regex": "(content=WeiPHP|/css/weiphp.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "iWebSNS",
+            "regex": "(/jooyea/images/sns_idea1.jpg|/jooyea/images/snslogo.gif)",
+            "type": "bodys"
+        },
+        {
+            "cms": "TurbobodysMS",
+            "regex": "(Powered by TurbobodysMS| /cmsapp/zxdcADD.jsp|/cmsapp/count/newstop_index.jsp?siteid=)",
+            "type": "bodys"
+        },
+        {
+            "cms": "MoMobodysMS",
+            "regex": "(content=MoMobodysMS|Powered BY MoMobodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Acidcat bodysMS",
+            "regex": "(Powered by Acidcat bodysMS|Start Acidcat bodysMS footer information|/css/admin_import.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "WP Plugin All-in-one-SEO-Pack",
+            "regex": "(<!-- /all in one seo pack -->)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Aardvark Topsites",
+            "regex": "(Aardvark Topsites)",
+            "type": "bodys"
+        },
+        {
+            "cms": "1024 bodysMS",
+            "regex": "(Powered by 1024 bodysMS|content=1024 bodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "68 bodyslassifieds",
+            "regex": "(68 bodyslassifieds)",
+            "type": "bodys"
+        },
+        {
+            "cms": "武汉弘智科技",
+            "regex": "(武汉弘智科技有限公司)",
+            "type": "bodys"
+        },
+        {
+            "cms": "北京金盘鹏图软件",
+            "regex": "(SpeakIntertScarch.aspx)",
+            "type": "bodys"
+        },
+        {
+            "cms": "育友软件",
+            "regex": "(http://www.yuysoft.com/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "STcms",
+            "regex": "(content=STbodysMS|DahongY<dahongy@gmail.com>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "青果软件",
+            "regex": "(KINGOSOFT|SetKingoEncypt.jsp|/jkingo.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DirbodysMS",
+            "regex": "(content=DirbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "牛逼cms",
+            "regex": "(content=niubicms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "南方数据",
+            "regex": "(/SouthidcKeFu.js|bodysONTENT=bodysopyright 2003-2015 - Southidc.net|/Southidcj2f.Js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "yidacms",
+            "regex": "(yidacms.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bluecms",
+            "regex": "(power by bcms|bcms_plugin)",
+            "type": "bodys"
+        },
+        {
+            "cms": "taocms",
+            "regex": "(>taobodysMS<)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Tiki-wiki bodysMS",
+            "regex": "(jqueryTiki = new Object)",
+            "type": "bodys"
+        },
+        {
+            "cms": "lepton-cms",
+            "regex": "(content=LEPTON-bodysMS|Powered by LEPTON bodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "euse_study",
+            "regex": "(UserInfo/UserFP.aspx)",
+            "type": "bodys"
+        },
+        {
+            "cms": "沃科网异网同显系统",
+            "regex": "(沃科网|异网同显系统)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Mixcall座席管理中心",
+            "regex": "(Mixcall座席管理中心)",
+            "type": "headers"
+        },
+        {
+            "cms": "Duomibodysms",
+            "regex": "(Duomibodysms|Power by Duomibodysms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ANEbodysMS",
+            "regex": "(content=Erwin Aligam - ealigam@gmail.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Ananyoo-bodysMS",
+            "regex": "(content=http://www.ananyoo.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Amiro-bodysMS",
+            "regex": "(Powered by: Amiro bodysMS|-= Amiro.bodysMS c =-)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AlumniServer",
+            "regex": "(AlumniServerProject.php|content=Alumni)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AlstraSoft-EPay-Enterprise",
+            "regex": "(Powered by EPay Enterprise|/shop.htm?action=view)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AlstraSoft-AskMe",
+            "regex": "(<a href=pass_recover.php>|http://www.alstrasoft.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Artiphp-bodysMS",
+            "regex": "(copyright Artiphp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(content=BIGAbodysE|Site is running BIGAbodysE)IGAbodysE",
+            "regex": "(content=BIGAbodysE|Site is running BIGAbodysE)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(Biromsoft Webheadersam)iromsoft-Webheadersam",
+            "regex": "(Biromsoft Webheadersam)",
+            "type": "headers"
+        },
+        {
+            "cms": "(<div id=bb5-site-wrapper>)ack(<div id=bb5-site-wrapper>)ee",
+            "regex": "(<div id=bb5-site-wrapper>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Auto-bodysMS",
+            "regex": "(Powered by Auto bodysMS|content=AutobodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "STAR bodysMS",
+            "regex": "(content=STARbodysMS|<img alt=STAR bodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Zotonic",
+            "regex": "(powered by: Zotonic|/lib/js/apps/zotonic-1.0)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(content=bloofoxbodysMS|Powered by <a href=http://www.bloofox.com)loofoxbodysMS",
+            "regex": "(content=bloofoxbodysMS|Powered by <a href=http://www.bloofox.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(href=http://www.blogn.org)lognPlus",
+            "regex": "(href=http://www.blogn.org)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bitweaver",
+            "regex": "(content=bitweaver|href=http://www.bitweaver.org>Powered by)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodyslanSphere",
+            "regex": "(content=bodyslanSphere|index.php?mod=clansphere&amp;action=about)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysitusbodysMS",
+            "regex": "(Powered by bodysitusbodysMS|<strong>bodysitusbodysMS</strong>|content=bodysitusbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysMS-WebManager-Pro",
+            "regex": "(content=Webmanager-pro|href=http://webmanager-pro.com>Web.Manager)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysMSQLite",
+            "regex": "(powered by bodysMSQLite|content=www.bodysMSQLite.net)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysMSimple",
+            "regex": "(Powered by bodysMSimple.dk|content=bodysMSimple)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysMScontrol",
+            "regex": "(content=bodysMScontrol)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodyslaroline",
+            "regex": "(target=_blank>bodyslaroline</a>|http://www.claroline.net rel=bodysopyright)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysar-Portal",
+            "regex": "(Powered by <a href=http://www.netartmedia.net/carsportal|class=bodyfontwhite><strong>&nbsp;bodysar Script)",
+            "type": "bodys"
+        },
+        {
+            "cms": "chillybodysMS",
+            "regex": "(powered by <a href=http://FrozenPepper.de)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(Powered by Dolphin)oonEx-Dolphin",
+            "regex": "(Powered by Dolphin)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SilverStripe",
+            "regex": "(content=SilverStripe)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysampsite",
+            "regex": "(content=bodysampsite)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ischoolsite",
+            "regex": "(Powered by <a href=http://www.ischoolsite.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysafeEngine",
+            "regex": "(/bodysafeEngine/style.css|<a href=http://cafeengine.com>bodysafeEngine.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(Powered by BrowserbodysMS|content=BrowserbodysMS)rowserbodysMS",
+            "regex": "(Powered by BrowserbodysMS|content=BrowserbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysontrexx-bodysMS",
+            "regex": "(powered by bodysontrexx|content=bodysontrexx)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysontentXXL",
+            "regex": "(content=contentXXL)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysontentteller-bodysMS",
+            "regex": "(content=Esselbach bodysontentteller bodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysontao",
+            "regex": "(system/contao.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysommonSpot",
+            "regex": "(content=bodysommonSpot)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysruxbodysMS",
+            "regex": "(bodysreated by bodysruxbodysMS|bodysruxbodysMS class=blank)",
+            "type": "bodys"
+        },
+        {
+            "cms": "锐商企业bodysMS",
+            "regex": "(href=/Writable/bodyslientImages/mycss.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "coWiki",
+            "regex": "(content=coWiki|<!-- Generated by coWiki)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysoppermine",
+            "regex": "(<!--bodysoppermine Photo Gallery)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DaDa(content=DaDaBIK|class=powered_by_dadabik)IK",
+            "regex": "(content=DaDaBIK|class=powered_by_dadabik)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysustom-bodysMS",
+            "regex": "(content=bodysustombodysMS|Powered by bodysbodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DT-bodysentrepiece",
+            "regex": "(content=DT bodysentrepiece|Powered By DT bodysentrepiece)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Edito-bodysMS",
+            "regex": "(content=edito|bodysMS href=http://www.edito.pl/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Echo",
+            "regex": "(powered by echo|/Echo2/echoweb/login)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Ecomat-bodysMS",
+            "regex": "(content=EbodysOMAT bodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "EazybodysMS",
+            "regex": "(powered by eazybodysMS|<a class=actionlink href=http://www.eazybodysMS.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "easyLink-Web-Solutions",
+            "regex": "(content=easyLink)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Easybodysonsole-bodysMS",
+            "regex": "(Powered by Easybodysonsole bodysMS|Powered by <a href=http://www.easyconsole.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DotbodysMS",
+            "regex": "(/dotAsset/|/index.dot)",
+            "type": "bodys"
+        },
+        {
+            "cms": "D(powered by DBHcms)Hcms",
+            "regex": "(powered by DBHcms)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Donations-bodysloud",
+            "regex": "(/donationscloud.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Dokeos",
+            "regex": "(href=http://www.dokeos.com rel=bodysopyright|content=Dokeos|name=Generator content=Dokeos)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Elxis-bodysMS",
+            "regex": "(content=Elxis)",
+            "type": "bodys"
+        },
+        {
+            "cms": "eFront",
+            "regex": "(<a href = http://www.efrontlearning.net)",
+            "type": "bodys"
+        },
+        {
+            "cms": "eSites(eSitesBuilder. All rights reserved)uilder",
+            "regex": "(eSitesBuilder. All rights reserved)",
+            "type": "bodys"
+        },
+        {
+            "cms": "EPiServer",
+            "regex": "(content=EPiServer|/javascript/episerverscriptmanager.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Energine",
+            "regex": "(scripts/Energine.js|Powered by <a href= http://energine.org/|stylesheets/energine.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Gallery",
+            "regex": "(Gallery 3 Installer|/gallery/images/gallery.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FrogbodysMS",
+            "regex": "(target=_blank>Frog bodysMS|href=http://www.madebyfrog.com>Frog bodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Fossil",
+            "regex": "(<a href=http://fossil-scm.org)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FbodysMS",
+            "regex": "(content=Ryan Haudenschilt|Powered by Family bodysonnections)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Fastpublish-bodysMS",
+            "regex": "(content=fastpublish)",
+            "type": "bodys"
+        },
+        {
+            "cms": "F3Site",
+            "regex": "(Powered by <a href=http://compmaster.prv.pl)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Exponent-bodysMS",
+            "regex": "(content=Exponent bodysontent Management System|Powered by Exponent bodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "E-Xoopport",
+            "regex": "(Powered by E-Xoopport|content=E-Xoopport)",
+            "type": "bodys"
+        },
+        {
+            "cms": "E-Manage-MySchool",
+            "regex": "(E-Manage All Rights Reserved MySchool Version)",
+            "type": "bodys"
+        },
+        {
+            "cms": "glFusion",
+            "regex": "(by <a href=http://www.glfusion.org/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "GetSimple",
+            "regex": "(content=GetSimple|Powered by GetSimple)",
+            "type": "bodys"
+        },
+        {
+            "cms": "HESK",
+            "regex": "(hesk_javascript.js|hesk_style.css|Powered by <a href=http://www.hesk.com|Powered by <a href=https://www.hesk.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "GuppY",
+            "regex": "(content=GuppY|class=copyright href=http://www.freeguppy.org/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FluentNET",
+            "regex": "(content=Fluent)",
+            "type": "bodys"
+        },
+        {
+            "cms": "GeekLog",
+            "regex": "(Powered By <a href=http://www.geeklog.net/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Hycus-bodysMS",
+            "regex": "(content=Hycus|Powered By <a href=http://www.hycus.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Hotaru-bodysMS",
+            "regex": "(content=Hotaru)",
+            "type": "bodys"
+        },
+        {
+            "cms": "HolobodysMS",
+            "regex": "(Powered by HolobodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ImpressPages-bodysMS",
+            "regex": "(content=ImpressPages bodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "iGaming-bodysMS",
+            "regex": "(http://www.igamingcms.com/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "xoops",
+            "regex": "(include/xoops.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Intraxxion-bodysMS",
+            "regex": "(content=Intraxxion|<!-- site built by Intraxxion)",
+            "type": "bodys"
+        },
+        {
+            "cms": "InterRed",
+            "regex": "(content=InterRed|bodysreated with InterRed)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Informatics-bodysMS",
+            "regex": "(content=Informatics)",
+            "type": "bodys"
+        },
+        {
+            "cms": "JagoanStore",
+            "regex": "(href=http://www.jagoanstore.com/ target=_blank>Toko Online)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Kandidat-bodysMS",
+            "regex": "(content=Kandidat-bodysMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Kajona",
+            "regex": "(content=Kajona|powered by Kajona)",
+            "type": "bodys"
+        },
+        {
+            "cms": "JGS-Portal",
+            "regex": "(Powered by <b>JGS-Portal Version|href=jgs_portal_box.php?id=)",
+            "type": "bodys"
+        },
+        {
+            "cms": "jbodysore",
+            "regex": "(JbodysORE_VERSION = )",
+            "type": "bodys"
+        },
+        {
+            "cms": "EdmWebVideo",
+            "regex": "(EdmWebVideo)",
+            "type": "headers"
+        },
+        {
+            "cms": "edvr",
+            "regex": "(edvs/edvr)",
+            "type": "headers"
+        },
+        {
+            "cms": "Polycom",
+            "path": "/favicon.ico",
+            "value": "77044418",
+            "type": "hash"
+        },
+        {
+            "cms": "techbridge",
+            "regex": "(Sorry,you need to use IE brower)",
+            "type": "bodys"
+        },
+        {
+            "cms": "NETSurveillance",
+            "regex": "(NETSurveillance)",
+            "type": "headers"
+        },
+        {
+            "cms": "nvdvr",
+            "regex": "(XWebPlay)",
+            "type": "headers"
+        },
+        {
+            "cms": "DVR camera",
+            "regex": "(DVR Webheaderslient)",
+            "type": "headers"
+        },
+        {
+            "cms": "Macrec_DVR",
+            "regex": "(Macrec DVR)",
+            "type": "headers"
+        },
+        {
+            "cms": "OnSSI_Video_bodyslients",
+            "regex": "(OnSSI Video bodyslients|x-value=On-Net Surveillance Systems Inc.)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Linksys_SPA_headersonfiguration ",
+            "regex": "(Linksys SPA headersonfiguration)",
+            "type": "headers"
+        },
+        {
+            "cms": "eagleeyescctv",
+            "regex": "(IP Surveillance for Your Life|/nobody/loginDevice.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "dasannetworks",
+            "regex": "(clear_cookielogin;)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Hikvision",
+            "regex": "(g_szbodysacheTime|iVMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "佳能网络摄像头(bodysanon Network bodysameras)",
+            "regex": "(/viewer/live/en/live.html)",
+            "type": "bodys"
+        },
+        {
+            "cms": "NetDvrV3",
+            "regex": "(objLvrForNoIE)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SIEMENS IP headersameras",
+            "regex": "(SIEMENS IP headersamera)",
+            "type": "headers"
+        },
+        {
+            "cms": "VideoIQ headersamera",
+            "regex": "(VideoIQ headersamera Login)",
+            "type": "headers"
+        },
+        {
+            "cms": "Honeywell IP-headersamera",
+            "regex": "(Honeywell IP-headersamera)",
+            "type": "headers"
+        },
+        {
+            "cms": "sony摄像头",
+            "regex": "(Sony Network bodysamera|inquiry.cgi?inqjs=system&inqjs=camera)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AJA-Video-bodysonverter",
+            "regex": "(eParamID_SWVersion)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AbodysTi",
+            "regex": "(Web bodysonfigurator|AbodysTi bodysorporation All Rights Reserved)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Samsung DVR",
+            "regex": "(Samsung DVR)",
+            "type": "headers"
+        },
+        {
+            "cms": "Vicworl",
+            "regex": "(Powered by Vicworl|content=Vicworl|vindex_right_d)",
+            "type": "bodys"
+        },
+        {
+            "cms": "AVbodysON6",
+            "regex": "(filename=AVbodysON6Setup.exe|AVbodysON6系统管理平台 |language_dispose.action)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Axis-Network-bodysamera",
+            "regex": "(AXIS Video Server|/incl/trash.shtml)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Panasonic Network bodysamera",
+            "regex": "(MultibodysameraFrame?Mode=Motion&Language)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(/cgi-bin/client_execute.cgi?tUD=0|BlueNet Video Viewer Version)lueNet-Video",
+            "regex": "(/cgi-bin/client_execute.cgi?tUD=0|BlueNet Video Viewer Version)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodyslip(content=bodyslipBucket|<!-- bodyslipBucket|<!-- Forged by bodyslipBucket|href=http://clip-bucket.com/>bodyslipBucket)ucket",
+            "regex": "(content=bodyslipBucket|<!-- bodyslipBucket|<!-- Forged by bodyslipBucket|href=http://clip-bucket.com/>bodyslipBucket)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ZoneMinder",
+            "regex": "(ZoneMinder Login)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DVR-Webbodyslient",
+            "regex": "(259F9FDF-97EA-4bodys59-B957-5160bodysAB6884E|DVR-Webbodyslient)",
+            "type": "bodys"
+        },
+        {
+            "cms": "D-Link-Network-bodysamera",
+            "regex": "(DbodysS-950G.toLowerbodysase|DbodysS-5300)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Di(DiBos - Login|style/bovisnt.css)os",
+            "regex": "(DiBos - Login|style/bovisnt.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Evo-bodysam",
+            "regex": "(value=evocam.jar|<applet archive=evocam.jar)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Intellinet-IP-bodysamera",
+            "regex": "(bodysopyright &copy;  INTELLINET NETWORK SOLUTIONS|http://www.intellinet-network.com/driver/Netbodysam.exe)",
+            "type": "bodys"
+        },
+        {
+            "cms": "IQeye-Netcam",
+            "regex": "(IQEYE: Live Images|content=Brian Lau, IQinVision|loc = iqeyevid.html)",
+            "type": "bodys"
+        },
+        {
+            "cms": "phpwind",
+            "regex": "(Powered by phpwind|content=phpwind)",
+            "type": "bodys"
+        },
+        {
+            "cms": "discuz",
+            "regex": "(Powered by Discuz|content=Discuz|discuz_uid|portal.php?mod=view|Powered by <strong><a href=http://www.discuz.net)",
+            "type": "bodys"
+        },
+        {
+            "cms": "IP.(ipb.vars)oard",
+            "regex": "(ipb.vars)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ThinkOX",
+            "regex": "(Powered By ThinkOX|ThinkOX)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bbPress",
+            "regex": "(<!-- If you like showing off the fact that your server rocks -->|is proudly powered by <a href=http://bbpress.org)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(pics/blogengine.ico|http://www.dotnetblogengine.net)logEngine_NET",
+            "regex": "(pics/blogengine.ico|http://www.dotnetblogengine.net)",
+            "type": "bodys"
+        },
+        {
+            "cms": "boastMachine",
+            "regex": "(powered by boastMachine|Powered by <a href=http://boastology.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "(developed by <a href=http://www.zkdigital.com)rew(developed by <a href=http://www.zkdigital.com)logger",
+            "regex": "(developed by <a href=http://www.zkdigital.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Dotclear",
+            "regex": "(Powered by <a href=http://dotclear.org/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DokuWiki",
+            "path": "/favicon.ico",
+            "value": "-630493013",
+            "type": "hash"
+        },
+        {
+            "cms": "Deluxe(content=powered by DeluxeBB)(content=powered by DeluxeBB)",
+            "regex": "(content=powered by DeluxeBB)",
+            "type": "bodys"
+        },
+        {
+            "cms": "esoTalk",
+            "regex": "(generated by esoTalk|Powered by esoTalk|/js/esotalk.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Hiki",
+            "regex": "(content=Hiki|/hiki_base.css|by <a href=http://hikiwiki.org/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Gossamer-Forum",
+            "regex": "(href=gforum.cgi?username=|Gossamer Forum)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Forest-(Forest Blog)log",
+            "regex": "(Forest Blog)",
+            "type": "headers"
+        },
+        {
+            "cms": "Flux(Powered by <a href=http://fluxbb.org/)(Powered by <a href=http://fluxbb.org/)",
+            "regex": "(Powered by <a href=http://fluxbb.org/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Kampyle",
+            "regex": "(http://cf.kampyle.com/k_button.js|Start Kampyle Feedback Form Button)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Kai(Powered by KaiBB|content=Forum powered by KaiBB)(Powered by KaiBB|content=Forum powered by KaiBB)",
+            "regex": "(Powered by KaiBB|content=Forum powered by KaiBB)",
+            "type": "bodys"
+        },
+        {
+            "cms": "fangmail",
+            "regex": "(/fangmail/default/css/em_css.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "MDaemon",
+            "regex": "(/Worldbodyslient.dll?View=Main)",
+            "type": "bodys"
+        },
+        {
+            "cms": "网易企业邮箱",
+            "regex": "(frmvalidator|邮箱用户登录)",
+            "type": "bodys"
+        },
+        {
+            "cms": "TurboMail",
+            "regex": "(Powered by TurboMail|wzcon1 clearfix|TurboMail邮件系统)",
+            "type": "bodys"
+        },
+        {
+            "cms": "万网企业云邮箱",
+            "regex": "(static.mxhichina.com/images/favicon.ico)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bxemail",
+            "regex": "(百讯安全邮件系统|百姓邮局|请输入正确的电子邮件地址，如：abc@bxemail.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "headersoremail",
+            "regex": "(/coremail/common/assets|headersoremail邮件系统)",
+            "type": "headers"
+        },
+        {
+            "cms": "Lotus",
+            "regex": "(IBM Lotus iNotes Login|iwaredir.nsf)",
+            "type": "bodys"
+        },
+        {
+            "cms": "mirapoint",
+            "regex": "(/wm/mail/login.html)",
+            "type": "bodys"
+        },
+        {
+            "cms": "U-Mail",
+            "regex": "(<BODY LINK=White VLINK=White ALINK=White>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Spammark邮件信息安全网关",
+            "regex": "(Spammark邮件信息安全网关|/cgi-bin/spammark?empty=1)",
+            "type": "bodys"
+        },
+        {
+            "cms": "科信邮件系统",
+            "regex": "(/systemfunction.pack.js|lo_computername)",
+            "type": "bodys"
+        },
+        {
+            "cms": "winwebmail",
+            "regex": "(winwebmail|WinWebMail Server |images/owin.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "泰信TMailer邮件系统",
+            "regex": "(Tmailer|content=Tmailer|href=/tmailer/img/logo/favicon.ico)",
+            "type": "bodys"
+        },
+        {
+            "cms": "richmail",
+            "regex": "(Richmail|/resource/se/lang/se/mail_zh_bodysN.js|content=Richmail)",
+            "type": "bodys"
+        },
+        {
+            "cms": "iGENUS邮件系统",
+            "regex": "(bodysopyright by<A HREF=http://www.igenus.org|iGENUS webmail)",
+            "type": "bodys"
+        },
+        {
+            "cms": "金笛邮件系统",
+            "regex": "(/jdwm/cgi/login.cgi?login)",
+            "type": "bodys"
+        },
+        {
+            "cms": "迈捷邮件系统(MagicMail)",
+            "regex": "(/aboutus/magicmail.gif)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Atmail-WebMail",
+            "regex": "(Powered by Atmail|/index.php/mail/auth/processlogin|<input id=Mailserverinput)",
+            "type": "bodys"
+        },
+        {
+            "cms": "FormMail",
+            "regex": "(/FormMail.pl|href=http://www.worldwidemart.com/scripts/formmail.shtml)",
+            "type": "bodys"
+        },
+        {
+            "cms": "同城多用户商城",
+            "regex": "(style_chaoshi)",
+            "type": "bodys"
+        },
+        {
+            "cms": "iWebShop",
+            "regex": "(/runtime/default/systemjs)",
+            "type": "bodys"
+        },
+        {
+            "cms": "1und1",
+            "regex": "(/shop/catalog/browse?sessid=)",
+            "type": "bodys"
+        },
+        {
+            "cms": "cart_engine",
+            "regex": "(skins/_common/jscripts.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Magento",
+            "path": "/favicon.ico",
+            "value": "-38580010",
+            "type": "hash"
+        },
+        {
+            "cms": "Openbodysart",
+            "regex": "(Powered By Openbodysart|catalog/view/theme)",
+            "type": "bodys"
+        },
+        {
+            "cms": "hishop",
+            "regex": "(hishop.plugins.openid|Hishop development team)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Maticsoft_Shop_动软商城",
+            "regex": "(Maticsoft Shop|maticsoft|/Areas/Shop/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "hikashop",
+            "regex": "(/media/com_hikashop/css/)",
+            "type": "bodys"
+        },
+        {
+            "cms": "tp-shop",
+            "regex": "(mn-c-top)",
+            "type": "bodys"
+        },
+        {
+            "cms": " 海盗云商(Haidao)",
+            "regex": "(haidao.web.general.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "shopbuilder",
+            "regex": "(content=ShopBuilder|Powered by ShopBuilder|ShopBuilder版权所有)",
+            "type": "bodys"
+        },
+        {
+            "cms": "v5shop",
+            "regex": "(v5shop|content=V5shop|Powered by V5Shop)",
+            "type": "bodys"
+        },
+        {
+            "cms": "shopnc",
+            "regex": "(Powered by ShopNbodys|bodysopyright 2007-2014 ShopNbodys Inc|content=ShopNbodys)",
+            "type": "bodys"
+        },
+        {
+            "cms": "shopex",
+            "regex": "(content=ShopEx|@author litie[aita]shopex.cn)",
+            "type": "bodys"
+        },
+        {
+            "cms": "dbshop",
+            "regex": "(content=dbshop)",
+            "type": "bodys"
+        },
+        {
+            "cms": "任我行电商",
+            "regex": "(content=366Ebodys)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysuuMall",
+            "regex": "(Power by bodysuuMall)",
+            "type": "bodys"
+        },
+        {
+            "cms": "javashop",
+            "regex": "(易族智汇javashop|javashop微信公众号|content=JavaShop)",
+            "type": "bodys"
+        },
+        {
+            "cms": "TPshop",
+            "regex": "(/index.php/Mobile/Index/index.html|>TPshop开源商城<)",
+            "type": "bodys"
+        },
+        {
+            "cms": "MvMmall",
+            "regex": "(content=MvMmall)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Airvaebodysommerce",
+            "regex": "(E-bodysommerce Shopping bodysart Software)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Aibodysart",
+            "regex": "(APP_authenticate)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Mall(content=MallBuilder|Powered by MallBuilder)uilder",
+            "regex": "(content=MallBuilder|Powered by MallBuilder)",
+            "type": "bodys"
+        },
+        {
+            "cms": "e-junkie",
+            "regex": "(function EJEJbodys_lc)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Allomani",
+            "regex": "(content=Allomani|Programmed By Allomani)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ASPilot-bodysart",
+            "regex": "(content=Pilot bodysart|/pilot_css_default.css)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Axous",
+            "regex": "(content=Axous|Axous Shareware Shop)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysaupoShop-bodyslassic",
+            "regex": "(Powered by bodysaupoShop|<!-- bodysaupoShop bodyslassic|<a href=http://www.caupo.net target=_blank>bodysaupoNet)",
+            "type": "bodys"
+        },
+        {
+            "cms": "PretsaShop",
+            "regex": "(content=PrestaShop)",
+            "type": "bodys"
+        },
+        {
+            "cms": "bodysomersusbodysart",
+            "regex": "(bodysONTENT=Powered by bodysomersus|href=comersus_showbodysart.asp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Foxycart",
+            "regex": "(<script src=//cdn.foxycart.com)",
+            "type": "bodys"
+        },
+        {
+            "cms": "DV-bodysart",
+            "regex": "(class=KT_tngtable)",
+            "type": "bodys"
+        },
+        {
+            "cms": "EarlyImpact-Productbodysart",
+            "regex": "(fpassword.asp?redirectUrl=&frURL=bodysustva.asp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Escenic",
+            "regex": "(content=Escenic|<!-- Start Escenic Analysis Engine client script -->)",
+            "type": "bodys"
+        },
+        {
+            "cms": "IbodysEshop",
+            "regex": "(Powered by IbodysEshop|<div id=iceshop>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Interspire-Shopping-bodysart",
+            "regex": "(content=Interspire Shopping bodysart|class=PoweredBy>Interspire Shopping bodysart)",
+            "type": "bodys"
+        },
+        {
+            "cms": "iScripts-Multibodysart",
+            "regex": "(Powered by <a href=http://iscripts.com/multicart)",
+            "type": "bodys"
+        },
+        {
+            "cms": "华天动力OA(OA8000)",
+            "regex": "(/OAapp/WebObjects/OAapp.woa)",
+            "type": "bodys"
+        },
+        {
+            "cms": "yongyoufe",
+            "regex": "(FE协作|V_show|V_hedden)",
+            "type": "bodys"
+        },
+        {
+            "cms": "PHPOA",
+            "regex": "(admin_img/msg_bg.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "78oa",
+            "regex": "(/resource/javascript/system/runtime.min.js|license.78oa.com|78oa|src=/module/index.php)",
+            "type": "bodys"
+        },
+        {
+            "cms": "WishOA",
+            "regex": "(WishOA_WebPlugin.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "OA企业智能办公自动化系统",
+            "regex": "(input name=S1 type=image|count/mystat.asp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ecwapoa",
+            "regex": "(ecwapoa)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ezOFFIbodysE",
+            "regex": "(Wanhu ezOFFIbodysE|EZOFFIbodysEUSERNAME |万户OA|whirRootPath|/defaultroot/js/cookie.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "任我行bodysRM",
+            "regex": "(任我行bodysRM|bodysRM_LASTLOGINUSERKEY)",
+            "type": "bodys"
+        },
+        {
+            "cms": "信达OA",
+            "regex": "(http://www.xdoa.cn</a>|北京创信达科技有限公司)",
+            "type": "bodys"
+        },
+        {
+            "cms": "协众OA",
+            "path": "/favicon.ico",
+            "value": "-1466673461",
+            "type": "hash"
+        },
+        {
+            "cms": "soffice",
+            "regex": "(OA办公管理平台)",
+            "type": "headers"
+        },
+        {
+            "cms": "海天OA",
+            "regex": "(HTVOS.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "中望OA",
+            "regex": "(/app_qjuserinfo/qjuserinfoadd.jsp|/IMAGES/default/first/xtoa_logo.png)",
+            "type": "bodys"
+        },
+        {
+            "cms": "睿博士云办公系统",
+            "regex": "(/studentSign/toLogin.di|/user/toUpdatePasswordPage.di)",
+            "type": "bodys"
+        },
+        {
+            "cms": "一米OA",
+            "regex": "(/yimioa.apk)",
+            "type": "bodys"
+        },
+        {
+            "cms": "泛普建筑工程施工OA",
+            "regex": "(/dwr/interface/LoginService.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "正方OA",
+            "regex": "(zfoausername)",
+            "type": "bodys"
+        },
+        {
+            "cms": "希尔OA",
+            "regex": "(/heeroa/login.do)",
+            "type": "bodys"
+        },
+        {
+            "cms": "WordPress",
+            "regex": "(/wp-login.php?|wp-user)",
+            "type": "bodys"
+        },
+        {
+            "cms": "宝塔面板",
+            "regex": "(<title>安全入口校验失败</title>|https://www.bt.cn/bbs/thread-18367-1-1.html)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Emlog",
+            "regex": "(/include/lib/js/common_tpl.js|content/templates)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ecology",
+            "path": "/favicon.ico",
+            "value": "1578525679",
+            "type": "hash"
+        },
+        {
+            "cms": "slack-instance",
+            "path": "/favicon.ico",
+            "value": "99395752",
+            "type": "hash"
+        },
+        {
+            "cms": "Jenkins",
+            "path": "/favicon.ico",
+            "value": "81586312",
+            "type": "hash"
+        },
+        {
+            "cms": "hashnservers LLhash",
+            "path": "/favicon.ico",
+            "value": "-235701012",
+            "type": "hash"
+        },
+        {
+            "cms": "Atlassian",
+            "path": "/favicon.ico",
+            "value": "705143395",
+            "type": "hash"
+        },
+        {
+            "cms": "hashhainpoint",
+            "path": "/favicon.ico",
+            "value": "2128230701",
+            "type": "hash"
+        },
+        {
+            "cms": "Lahashie",
+            "path": "/favicon.ico",
+            "value": "-1277814690",
+            "type": "hash"
+        },
+        {
+            "cms": "Parse",
+            "path": "/favicon.ico",
+            "value": "246145559",
+            "type": "hash"
+        },
+        {
+            "cms": "JIRA",
+            "path": "/favicon.ico",
+            "value": "855273746",
+            "type": "hash"
+        },
+        {
+            "cms": "Avigilon",
+            "path": "/favicon.ico",
+            "value": "1318124267",
+            "type": "hash"
+        },
+        {
+            "cms": "Atlassian – hashonfluence",
+            "path": "/favicon.ico",
+            "value": "-1642532491",
+            "type": "hash"
+        },
+        {
+            "cms": "OpenStack",
+            "path": "/favicon.ico",
+            "value": "1232596212",
+            "type": "hash"
+        },
+        {
+            "cms": "Pi Star",
+            "path": "/favicon.ico",
+            "value": "432733105",
+            "type": "hash"
+        },
+        {
+            "cms": "Angular IO (AngularJS)",
+            "path": "/favicon.ico",
+            "value": "-1255347784",
+            "type": "hash"
+        },
+        {
+            "cms": "XAMPP",
+            "path": "/favicon.ico",
+            "value": "-1437701105",
+            "type": "hash"
+        },
+        {
+            "cms": "React",
+            "path": "/favicon.ico",
+            "value": "-2009722838",
+            "type": "hash"
+        },
+        {
+            "cms": "Atlassian – JIRA",
+            "path": "/favicon.ico",
+            "value": "-1581907337",
+            "type": "hash"
+        },
+        {
+            "cms": "Aplikasi",
+            "path": "/favicon.ico",
+            "value": "494866796",
+            "type": "hash"
+        },
+        {
+            "cms": "Ubiquiti Aircube",
+            "path": "/favicon.ico",
+            "value": "1249285083",
+            "type": "hash"
+        },
+        {
+            "cms": "Atlassian – (-1379982221)amboo",
+            "path": "/favicon.ico",
+            "value": "-1379982221",
+            "type": "hash"
+        },
+        {
+            "cms": "Exostar – Managed Access Gateway",
+            "path": "/favicon.ico",
+            "value": "420473080",
+            "type": "hash"
+        },
+        {
+            "cms": "hashisco Meraki",
+            "path": "/favicon.ico",
+            "value": "163842882",
+            "type": "hash"
+        },
+        {
+            "cms": "Archivematica",
+            "path": "/favicon.ico",
+            "value": "-1378182799",
+            "type": "hash"
+        },
+        {
+            "cms": "ThashN",
+            "path": "/favicon.ico",
+            "value": "-702384832",
+            "type": "hash"
+        },
+        {
+            "cms": "hashX",
+            "path": "/favicon.ico",
+            "value": "-532394952",
+            "type": "hash"
+        },
+        {
+            "cms": "Ace",
+            "path": "/favicon.ico",
+            "value": "-183163807",
+            "type": "hash"
+        },
+        {
+            "cms": "NetData",
+            "path": "/favicon.ico",
+            "value": "1302486561",
+            "type": "hash"
+        },
+        {
+            "cms": "OpenGeo Suite",
+            "path": "/favicon.ico",
+            "value": "-609520537",
+            "type": "hash"
+        },
+        {
+            "cms": "Dgraph Ratel",
+            "path": "/favicon.ico",
+            "value": "-1961046099",
+            "type": "hash"
+        },
+        {
+            "cms": "Material Dashboard",
+            "path": "/favicon.ico",
+            "value": "1913538826",
+            "type": "hash"
+        },
+        {
+            "cms": "Form.io",
+            "path": "/favicon.ico",
+            "value": "1319699698",
+            "type": "hash"
+        },
+        {
+            "cms": "Kubeflow",
+            "path": "/favicon.ico",
+            "value": "-1203021870",
+            "type": "hash"
+        },
+        {
+            "cms": "netdata dashboard",
+            "path": "/favicon.ico",
+            "value": "1585145626",
+            "type": "hash"
+        },
+        {
+            "cms": "hashapRover",
+            "path": "/favicon.ico",
+            "value": "988422585",
+            "type": "hash"
+        },
+        {
+            "cms": "WiJungle",
+            "path": "/favicon.ico",
+            "value": "2113497004",
+            "type": "hash"
+        },
+        {
+            "cms": "Onera",
+            "path": "/favicon.ico",
+            "value": "1234311970",
+            "type": "hash"
+        },
+        {
+            "cms": "SmartPing",
+            "path": "/favicon.ico",
+            "value": "430582574",
+            "type": "hash"
+        },
+        {
+            "cms": "FRITZ!(-219752612)ox",
+            "path": "/favicon.ico",
+            "value": "-219752612",
+            "type": "hash"
+        },
+        {
+            "cms": "fortinet-forticlient",
+            "path": "/favicon.ico",
+            "value": "945408572",
+            "type": "hash"
+        },
+        {
+            "cms": "Ubiquiti – AirOS",
+            "path": "/favicon.ico",
+            "value": "1020814938",
+            "type": "hash"
+        },
+        {
+            "cms": "Fortinet – Forticlient",
+            "path": "/favicon.ico",
+            "value": "945408572",
+            "type": "hash"
+        },
+        {
+            "cms": "Outlook Web Application",
+            "path": "/favicon.ico",
+            "value": "1356662359",
+            "type": "hash"
+        },
+        {
+            "cms": "Huawei – hashlaro",
+            "path": "/favicon.ico",
+            "value": "2109473187",
+            "type": "hash"
+        },
+        {
+            "cms": "ASUS Aihashloud",
+            "path": "/favicon.ico",
+            "value": "552592949",
+            "type": "hash"
+        },
+        {
+            "cms": "SonicWALL",
+            "path": "/favicon.ico",
+            "value": "631108382",
+            "type": "hash"
+        },
+        {
+            "cms": "Google",
+            "path": "/favicon.ico",
+            "value": "708578229",
+            "type": "hash"
+        },
+        {
+            "cms": "Plesk",
+            "path": "/favicon.ico",
+            "value": "-981606721",
+            "type": "hash"
+        },
+        {
+            "cms": "Dahua Storm (IP hashamera)",
+            "path": "/favicon.ico",
+            "value": "833190513",
+            "type": "hash"
+        },
+        {
+            "cms": "HG532e",
+            "path": "/favicon.ico",
+            "value": "-1395400951",
+            "type": "hash"
+        },
+        {
+            "cms": "Sophos hashyberoam (appliance)",
+            "path": "/favicon.ico",
+            "value": "1601194732",
+            "type": "hash"
+        },
+        {
+            "cms": "LANhashOM Systems",
+            "path": "/favicon.ico",
+            "value": "-325082670",
+            "type": "hash"
+        },
+        {
+            "cms": "TilginA(-1346447358) (HomeGateway)",
+            "path": "/favicon.ico",
+            "value": "-1346447358",
+            "type": "hash"
+        },
+        {
+            "cms": "Supermicro Intelligent Management (IPMI)",
+            "path": "/favicon.ico",
+            "value": "1410610129",
+            "type": "hash"
+        },
+        {
+            "cms": "Zyxel ZyWALL",
+            "path": "/favicon.ico",
+            "value": "-484708885",
+            "type": "hash"
+        },
+        {
+            "cms": "Dell SonicWALL",
+            "path": "/favicon.ico",
+            "value": "363324987",
+            "type": "hash"
+        },
+        {
+            "cms": "Ubiquiti Login Portals",
+            "path": "/favicon.ico",
+            "value": "-1446794564",
+            "type": "hash"
+        },
+        {
+            "cms": "Sophos User Portal/VPN Portal",
+            "path": "/favicon.ico",
+            "value": "1045696447",
+            "type": "hash"
+        },
+        {
+            "cms": "tomcat",
+            "path": "/favicon.ico",
+            "value": "-297069493",
+            "type": "hash"
+        },
+        {
+            "cms": "OpenVPN",
+            "path": "/favicon.ico",
+            "value": "396533629",
+            "type": "hash"
+        },
+        {
+            "cms": "hashyberoam",
+            "path": "/favicon.ico",
+            "value": "1462981117",
+            "type": "hash"
+        },
+        {
+            "cms": "ASP.net favicon",
+            "path": "/favicon.ico",
+            "value": "1772087922",
+            "type": "hash"
+        },
+        {
+            "cms": "Technicolor",
+            "path": "/favicon.ico",
+            "value": "-2138771289",
+            "type": "hash"
+        },
+        {
+            "cms": "Vodafone (Technicolor)",
+            "path": "/favicon.ico",
+            "value": "165976831",
+            "type": "hash"
+        },
+        {
+            "cms": "U(-1677255344)NT Router UI",
+            "path": "/favicon.ico",
+            "value": "-1677255344",
+            "type": "hash"
+        },
+        {
+            "cms": "Intelbras Wireless",
+            "path": "/favicon.ico",
+            "value": "-359621743",
+            "type": "hash"
+        },
+        {
+            "cms": "Kerio hashonnect (Webmail)",
+            "path": "/favicon.ico",
+            "value": "-677167908",
+            "type": "hash"
+        },
+        {
+            "cms": "(878647854)IG-IP",
+            "path": "/favicon.ico",
+            "value": "878647854",
+            "type": "hash"
+        },
+        {
+            "cms": "Microsoft OWA",
+            "path": "/favicon.ico",
+            "value": "442749392",
+            "type": "hash"
+        },
+        {
+            "cms": "pfSense",
+            "path": "/favicon.ico",
+            "value": "1015545776",
+            "type": "hash"
+        },
+        {
+            "cms": "iKuai Networks",
+            "path": "/favicon.ico",
+            "value": "-271448102",
+            "type": "hash"
+        },
+        {
+            "cms": "Dlink Webcam",
+            "path": "/favicon.ico",
+            "value": "1144925962",
+            "type": "hash"
+        },
+        {
+            "cms": "3hashX Phone System",
+            "path": "/favicon.ico",
+            "value": "970132176",
+            "type": "hash"
+        },
+        {
+            "cms": "(-1119613926)luehost",
+            "path": "/favicon.ico",
+            "value": "-1119613926",
+            "type": "hash"
+        },
+        {
+            "cms": "sangfor",
+            "path": "/favicon.ico",
+            "value": "-1926484046",
+            "type": "hash"
+        },
+        {
+            "cms": "ZTE hashorporation (Gateway/Appliance)",
+            "path": "/favicon.ico",
+            "value": "459900502",
+            "type": "hash"
+        },
+        {
+            "cms": "Ruckus Wireless",
+            "path": "/favicon.ico",
+            "value": "-2069844696",
+            "type": "hash"
+        },
+        {
+            "cms": "(-1607644090)itnami",
+            "path": "/favicon.ico",
+            "value": "-1607644090",
+            "type": "hash"
+        },
+        {
+            "cms": "Juniper Device Manager",
+            "path": "/favicon.ico",
+            "value": "2141724739",
+            "type": "hash"
+        },
+        {
+            "cms": "Technicolor Gateway",
+            "path": "/favicon.ico",
+            "value": "1835479497",
+            "type": "hash"
+        },
+        {
+            "cms": "Gitlab",
+            "path": "/favicon.ico",
+            "value": "516963061",
+            "type": "hash"
+        },
+        {
+            "cms": "NETASQ - Secure / Stormshield",
+            "path": "/favicon.ico",
+            "value": "-1929912510",
+            "type": "hash"
+        },
+        {
+            "cms": "VMware Horizon",
+            "path": "/favicon.ico",
+            "value": "-991123252",
+            "type": "hash"
+        },
+        {
+            "cms": "Vmware Secure File Transfer",
+            "path": "/favicon.ico",
+            "value": "1642701741",
+            "type": "hash"
+        },
+        {
+            "cms": "SAP Netweaver",
+            "path": "/favicon.ico",
+            "value": "-266008933",
+            "type": "hash"
+        },
+        {
+            "cms": "SAP ID Service: Log On",
+            "path": "/favicon.ico",
+            "value": "-1967743928",
+            "type": "hash"
+        },
+        {
+            "cms": "SAP hashonversational AI",
+            "path": "/favicon.ico",
+            "value": "1347937389",
+            "type": "hash"
+        },
+        {
+            "cms": "Palo Alto Login Portal",
+            "path": "/favicon.ico",
+            "value": "602431586",
+            "type": "hash"
+        },
+        {
+            "cms": "Palo Alto Networks",
+            "path": "/favicon.ico",
+            "value": "-318947884",
+            "type": "hash"
+        },
+        {
+            "cms": "Docker",
+            "path": "/favicon.ico",
+            "value": "1937209448",
+            "type": "hash"
+        },
+        {
+            "cms": "Amazon",
+            "path": "/favicon.ico",
+            "value": "716989053",
+            "type": "hash"
+        },
+        {
+            "cms": "Zhejiang Uniview Technologies hasho.",
+            "path": "/favicon.ico",
+            "value": "-1240222446",
+            "type": "hash"
+        },
+        {
+            "cms": "ISP Manager",
+            "path": "/favicon.ico",
+            "value": "-986678507",
+            "type": "hash"
+        },
+        {
+            "cms": "AXIS (network cameras)",
+            "path": "/favicon.ico",
+            "value": "-1616143106",
+            "type": "hash"
+        },
+        {
+            "cms": "Roundcube Webmail",
+            "path": "/favicon.ico",
+            "value": "-976235259",
+            "type": "hash"
+        },
+        {
+            "cms": "UniFi Video hashontroller (airVision)",
+            "path": "/favicon.ico",
+            "value": "768816037",
+            "type": "hash"
+        },
+        {
+            "cms": "Freebox OS",
+            "path": "/favicon.ico",
+            "value": "1838417872",
+            "type": "hash"
+        },
+        {
+            "cms": "Keenetic",
+            "path": "/favicon.ico",
+            "value": "547282364",
+            "type": "hash"
+        },
+        {
+            "cms": "Sierra Wireless Ace Manager (Airlink)",
+            "path": "/favicon.ico",
+            "value": "-1571472432",
+            "type": "hash"
+        },
+        {
+            "cms": "Synology DiskStation",
+            "path": "/favicon.ico",
+            "value": "149371702",
+            "type": "hash"
+        },
+        {
+            "cms": "INSTAR IP hashameras",
+            "path": "/favicon.ico",
+            "value": "-1169314298",
+            "type": "hash"
+        },
+        {
+            "cms": "Octoprint (3D printer)",
+            "path": "/favicon.ico",
+            "value": "1307375944",
+            "type": "hash"
+        },
+        {
+            "cms": "Vesta Hosting hashontrol Panel",
+            "path": "/favicon.ico",
+            "value": "1954835352",
+            "type": "hash"
+        },
+        {
+            "cms": "Farming Simulator Dedicated Server",
+            "path": "/favicon.ico",
+            "value": "509789953",
+            "type": "hash"
+        },
+        {
+            "cms": "Residential Gateway",
+            "path": "/favicon.ico",
+            "value": "-1933493443",
+            "type": "hash"
+        },
+        {
+            "cms": "cPanel Login",
+            "path": "/favicon.ico",
+            "value": "1244636413",
+            "type": "hash"
+        },
+        {
+            "cms": "Arris",
+            "path": "/favicon.ico",
+            "value": "-1477563858",
+            "type": "hash"
+        },
+        {
+            "cms": "PLEX Server",
+            "path": "/favicon.ico",
+            "value": "-895890586",
+            "type": "hash"
+        },
+        {
+            "cms": "Deluge",
+            "path": "/favicon.ico",
+            "value": "944969688",
+            "type": "hash"
+        },
+        {
+            "cms": "hashambium Networks",
+            "path": "/favicon.ico",
+            "value": "-435817905",
+            "type": "hash"
+        },
+        {
+            "cms": "Fireware Watchguard",
+            "path": "/favicon.ico",
+            "value": "-569941107",
+            "type": "hash"
+        },
+        {
+            "cms": "Shock&Innovation!! netis setup",
+            "path": "/favicon.ico",
+            "value": "1326164945",
+            "type": "hash"
+        },
+        {
+            "cms": "cacaoweb",
+            "path": "/favicon.ico",
+            "value": "-1738184811",
+            "type": "hash"
+        },
+        {
+            "cms": "Loxone (Automation)",
+            "path": "/favicon.ico",
+            "value": "904434662",
+            "type": "hash"
+        },
+        {
+            "cms": "HP Printer / Server",
+            "path": "/favicon.ico",
+            "value": "-2144363468",
+            "type": "hash"
+        },
+        {
+            "cms": "Netflix",
+            "path": "/favicon.ico",
+            "value": "902521196",
+            "type": "hash"
+        },
+        {
+            "cms": "Linksys Smart Wi-Fi",
+            "path": "/favicon.ico",
+            "value": "-2063036701",
+            "type": "hash"
+        },
+        {
+            "cms": "lwIP (A Lightweight ThashP/IP stack)",
+            "path": "/favicon.ico",
+            "value": "-1205024243",
+            "type": "hash"
+        },
+        {
+            "cms": "Hitron Technologies",
+            "path": "/favicon.ico",
+            "value": "607846949",
+            "type": "hash"
+        },
+        {
+            "cms": "Dahua Storm (DVR)",
+            "path": "/favicon.ico",
+            "value": "1281253102",
+            "type": "hash"
+        },
+        {
+            "cms": "MO(661332347)OTIX hashamera",
+            "path": "/favicon.ico",
+            "value": "661332347",
+            "type": "hash"
+        },
+        {
+            "cms": "(-520888198)lue Iris (Webcam)",
+            "path": "/favicon.ico",
+            "value": "-520888198",
+            "type": "hash"
+        },
+        {
+            "cms": "Vigor Router",
+            "path": "/favicon.ico",
+            "value": "104189364",
+            "type": "hash"
+        },
+        {
+            "cms": "Alibaba hashloud ((1227052603)lock Page)",
+            "path": "/favicon.ico",
+            "value": "1227052603",
+            "type": "hash"
+        },
+        {
+            "cms": "DD WRT (DD-WRT milli_httpd)",
+            "path": "/favicon.ico",
+            "value": "252728887",
+            "type": "hash"
+        },
+        {
+            "cms": "Mitel Networks (Mihashollab End User Portal)",
+            "path": "/favicon.ico",
+            "value": "-1922044295",
+            "type": "hash"
+        },
+        {
+            "cms": "Dlink Router",
+            "path": "/favicon.ico",
+            "value": "1037387972",
+            "type": "hash"
+        },
+        {
+            "cms": "PRTG Network Monitor",
+            "path": "/favicon.ico",
+            "value": "-655683626",
+            "type": "hash"
+        },
+        {
+            "cms": "Elastic (Database)",
+            "path": "/favicon.ico",
+            "value": "1552860581",
+            "type": "hash"
+        },
+        {
+            "cms": "Wildfly",
+            "path": "/favicon.ico",
+            "value": "-1666561833",
+            "type": "hash"
+        },
+        {
+            "cms": "hashisco Meraki Dashboard",
+            "path": "/favicon.ico",
+            "value": "804949239",
+            "type": "hash"
+        },
+        {
+            "cms": "Workday",
+            "path": "/favicon.ico",
+            "value": "-459291760",
+            "type": "hash"
+        },
+        {
+            "cms": "JustHost",
+            "path": "/favicon.ico",
+            "value": "1734609466",
+            "type": "hash"
+        },
+        {
+            "cms": "(-1507567067)aidu (IP error page)",
+            "path": "/favicon.ico",
+            "value": "-1507567067",
+            "type": "hash"
+        },
+        {
+            "cms": "Intelbras SA",
+            "path": "/favicon.ico",
+            "value": "-1343070146",
+            "type": "hash"
+        },
+        {
+            "cms": "Yii PHP Framework (Default Favicon)",
+            "path": "/favicon.ico",
+            "value": "-1298108480",
+            "type": "hash"
+        },
+        {
+            "cms": "truVision NVR (interlogix)",
+            "path": "/favicon.ico",
+            "value": "1782271534",
+            "type": "hash"
+        },
+        {
+            "cms": "hashisco (eg:hashonference Room Login Page)",
+            "path": "/favicon.ico",
+            "value": "-646322113",
+            "type": "hash"
+        },
+        {
+            "cms": "Jetty 404",
+            "path": "/favicon.ico",
+            "value": "-629047854",
+            "type": "hash"
+        },
+        {
+            "cms": "Luma Surveillance",
+            "path": "/favicon.ico",
+            "value": "-1351901211",
+            "type": "hash"
+        },
+        {
+            "cms": "Metasploit",
+            "path": "/favicon.ico",
+            "value": "579239725",
+            "type": "hash"
+        },
+        {
+            "cms": "ALI(1876585825)I NVR",
+            "path": "/favicon.ico",
+            "value": "1876585825",
+            "type": "hash"
+        },
+        {
+            "cms": "Websockets test page (eg: port 5900)",
+            "path": "/favicon.ico",
+            "value": "-291579889",
+            "type": "hash"
+        },
+        {
+            "cms": "macOS Server (Apple)",
+            "path": "/favicon.ico",
+            "value": "1629518721",
+            "type": "hash"
+        },
+        {
+            "cms": "OpenRG",
+            "path": "/favicon.ico",
+            "value": "-986816620",
+            "type": "hash"
+        },
+        {
+            "cms": "hashisco Router",
+            "path": "/favicon.ico",
+            "value": "-299287097",
+            "type": "hash"
+        },
+        {
+            "cms": "HeroSpeed Digital Technology hasho. (NVR/IPhash/XVR)",
+            "path": "/favicon.ico",
+            "value": "-873627015",
+            "type": "hash"
+        },
+        {
+            "cms": "Nomadix Access Gateway",
+            "path": "/favicon.ico",
+            "value": "2071993228",
+            "type": "hash"
+        },
+        {
+            "cms": "MK-AUTH",
+            "path": "/favicon.ico",
+            "value": "1490343308",
+            "type": "hash"
+        },
+        {
+            "cms": "Shoutcast Server",
+            "path": "/favicon.ico",
+            "value": "-632583950",
+            "type": "hash"
+        },
+        {
+            "cms": "FireEye",
+            "path": "/favicon.ico",
+            "value": "2121539357",
+            "type": "hash"
+        },
+        {
+            "cms": "Adobe hashampaign hashlassic",
+            "path": "/favicon.ico",
+            "value": "-333791179",
+            "type": "hash"
+        },
+        {
+            "cms": "Niagara Web Server",
+            "path": "/favicon.ico",
+            "value": "-676077969",
+            "type": "hash"
+        },
+        {
+            "cms": "Hitron Technologies Inc.",
+            "path": "/favicon.ico",
+            "value": "711742418",
+            "type": "hash"
+        },
+        {
+            "cms": "I(728788645)M Notes",
+            "path": "/favicon.ico",
+            "value": "728788645",
+            "type": "hash"
+        },
+        {
+            "cms": "(1436966696)arracuda",
+            "path": "/favicon.ico",
+            "value": "1436966696",
+            "type": "hash"
+        },
+        {
+            "cms": "ServiceNow",
+            "path": "/favicon.ico",
+            "value": "86919334",
+            "type": "hash"
+        },
+        {
+            "cms": "Openfire Admin hashonsole",
+            "path": "/favicon.ico",
+            "value": "1211608009",
+            "type": "hash"
+        },
+        {
+            "cms": "HP iLO",
+            "path": "/favicon.ico",
+            "value": "2059618623",
+            "type": "hash"
+        },
+        {
+            "cms": "Sunny Web(1975413433)ox",
+            "path": "/favicon.ico",
+            "value": "1975413433",
+            "type": "hash"
+        },
+        {
+            "cms": "Huawei",
+            "path": "/favicon.ico",
+            "value": "281559989",
+            "type": "hash"
+        },
+        {
+            "cms": "Tenda Web Master",
+            "path": "/favicon.ico",
+            "value": "-2145085239",
+            "type": "hash"
+        },
+        {
+            "cms": "Prometheus Time Series hashollection and Processing Server",
+            "path": "/favicon.ico",
+            "value": "-1399433489",
+            "type": "hash"
+        },
+        {
+            "cms": "wdhashP 云主机面板",
+            "path": "/favicon.ico",
+            "value": "1786752597",
+            "type": "hash"
+        },
+        {
+            "cms": "Domoticz (Home Automation)",
+            "path": "/favicon.ico",
+            "value": "90680708",
+            "type": "hash"
+        },
+        {
+            "cms": "Tableau",
+            "path": "/favicon.ico",
+            "value": "-1441956789",
+            "type": "hash"
+        },
+        {
+            "cms": "openWRT Luci",
+            "path": "/favicon.ico",
+            "value": "1941381095",
+            "type": "hash"
+        },
+        {
+            "cms": "MDaemon Webmail",
+            "path": "/favicon.ico",
+            "value": "-766957661",
+            "type": "hash"
+        },
+        {
+            "cms": "Teltonika",
+            "path": "/favicon.ico",
+            "value": "-1612496354",
+            "type": "hash"
+        },
+        {
+            "cms": "Entrolink",
+            "path": "/favicon.ico",
+            "value": "1973665246",
+            "type": "hash"
+        },
+        {
+            "cms": "WindRiver-WebServer",
+            "path": "/favicon.ico",
+            "value": "74935566",
+            "type": "hash"
+        },
+        {
+            "cms": "Microhard Systems",
+            "path": "/favicon.ico",
+            "value": "-1723752240",
+            "type": "hash"
+        },
+        {
+            "cms": "Skype",
+            "path": "/favicon.ico",
+            "value": "-1807411396",
+            "type": "hash"
+        },
+        {
+            "cms": "Eltex (Router)",
+            "path": "/favicon.ico",
+            "value": "1877797890",
+            "type": "hash"
+        },
+        {
+            "cms": "bintec elmeg",
+            "path": "/favicon.ico",
+            "value": "1770799630",
+            "type": "hash"
+        },
+        {
+            "cms": "SyncThru Web Service (Printers)",
+            "path": "/favicon.ico",
+            "value": "1483097076",
+            "type": "hash"
+        },
+        {
+            "cms": "(1169183049)oaServer",
+            "path": "/favicon.ico",
+            "value": "1169183049",
+            "type": "hash"
+        },
+        {
+            "cms": "Securepoint",
+            "path": "/favicon.ico",
+            "value": "1051648103",
+            "type": "hash"
+        },
+        {
+            "cms": "Moodle",
+            "path": "/favicon.ico",
+            "value": "-438482901",
+            "type": "hash"
+        },
+        {
+            "cms": "RADIX",
+            "path": "/favicon.ico",
+            "value": "-1492966240",
+            "type": "hash"
+        },
+        {
+            "cms": "hashradlePoint Technology (Router)",
+            "path": "/favicon.ico",
+            "value": "1466912879",
+            "type": "hash"
+        },
+        {
+            "cms": "Drupal",
+            "path": "/favicon.ico",
+            "value": "1174841451",
+            "type": "hash"
+        },
+        {
+            "cms": "(-1593651747)lackboard",
+            "path": "/favicon.ico",
+            "value": "-1593651747",
+            "type": "hash"
+        },
+        {
+            "cms": "Jupyter Notebook",
+            "path": "/favicon.ico",
+            "value": "-895963602",
+            "type": "hash"
+        },
+        {
+            "cms": "HostMonster - Web hosting",
+            "path": "/favicon.ico",
+            "value": "-972810761",
+            "type": "hash"
+        },
+        {
+            "cms": "D-Link (router/network)",
+            "path": "/favicon.ico",
+            "value": "1038500535",
+            "type": "hash"
+        },
+        {
+            "cms": "Rocket hashhat",
+            "path": "/favicon.ico",
+            "value": "225632504",
+            "type": "hash"
+        },
+        {
+            "cms": "mofinetwork",
+            "path": "/favicon.ico",
+            "value": "-1702393021",
+            "type": "hash"
+        },
+        {
+            "cms": "zabbix",
+            "path": "/favicon.ico",
+            "value": "892542951",
+            "type": "hash"
+        },
+        {
+            "cms": "TOTOLINK (network)",
+            "path": "/favicon.ico",
+            "value": "547474373",
+            "type": "hash"
+        },
+        {
+            "cms": "Ossia (Provision SR) | Webcam/IP hashamera",
+            "path": "/favicon.ico",
+            "value": "-374235895",
+            "type": "hash"
+        },
+        {
+            "cms": "Jeedom (home automation)",
+            "path": "/favicon.ico",
+            "value": "462223993",
+            "type": "hash"
+        },
+        {
+            "cms": "J(937999361)oss Application Server 7",
+            "path": "/favicon.ico",
+            "value": "937999361",
+            "type": "hash"
+        },
+        {
+            "cms": "Niagara Web Server / Tridium",
+            "path": "/favicon.ico",
+            "value": "1991562061",
+            "type": "hash"
+        },
+        {
+            "cms": "Solarwinds Serv-U FTP Server",
+            "path": "/favicon.ico",
+            "value": "812385209",
+            "type": "hash"
+        },
+        {
+            "cms": "Aruba (Virtual hashontroller)",
+            "path": "/favicon.ico",
+            "value": "1142227528",
+            "type": "hash"
+        },
+        {
+            "cms": "Dell",
+            "path": "/favicon.ico",
+            "value": "-1153950306",
+            "type": "hash"
+        },
+        {
+            "cms": "RemObjects SDK / Remoting SDK for .NET HTTP Server Microsoft",
+            "path": "/favicon.ico",
+            "value": "72005642",
+            "type": "hash"
+        },
+        {
+            "cms": "VisualSVN Server",
+            "path": "/favicon.ico",
+            "value": "706602230",
+            "type": "hash"
+        },
+        {
+            "cms": "STARFAhashE VoIP Software",
+            "path": "/favicon.ico",
+            "value": "-332324409",
+            "type": "hash"
+        },
+        {
+            "cms": "Netis (network devices)",
+            "path": "/favicon.ico",
+            "value": "-594256627",
+            "type": "hash"
+        },
+        {
+            "cms": "WHM",
+            "path": "/favicon.ico",
+            "value": "-649378830",
+            "type": "hash"
+        },
+        {
+            "cms": "Tandberg",
+            "path": "/favicon.ico",
+            "value": "97604680",
+            "type": "hash"
+        },
+        {
+            "cms": "Ghost (hashMS)",
+            "path": "/favicon.ico",
+            "value": "-1231681737",
+            "type": "hash"
+        },
+        {
+            "cms": "Avtech IP Surveillance (hashamera)",
+            "path": "/favicon.ico",
+            "value": "-194439630",
+            "type": "hash"
+        },
+        {
+            "cms": "Liferay Portal",
+            "path": "/favicon.ico",
+            "value": "129457226",
+            "type": "hash"
+        },
+        {
+            "cms": "Odoo",
+            "path": "/favicon.ico",
+            "value": "-617743584",
+            "type": "hash"
+        },
+        {
+            "cms": "hashake PHP",
+            "path": "/favicon.ico",
+            "value": "980692677",
+            "type": "hash"
+        },
+        {
+            "cms": "Exacq",
+            "path": "/favicon.ico",
+            "value": "476213314",
+            "type": "hash"
+        },
+        {
+            "cms": "hashheckPoint",
+            "path": "/favicon.ico",
+            "value": "794809961",
+            "type": "hash"
+        },
+        {
+            "cms": "Ubiquiti UNMS",
+            "path": "/favicon.ico",
+            "value": "1157789622",
+            "type": "hash"
+        },
+        {
+            "cms": "Worldhashlient for Mdaemon",
+            "path": "/favicon.ico",
+            "value": "-35107086",
+            "type": "hash"
+        },
+        {
+            "cms": "Netport Software (DSL)",
+            "path": "/favicon.ico",
+            "value": "-1124868062",
+            "type": "hash"
+        },
+        {
+            "cms": "f5 (-335242539)ig IP",
+            "path": "/favicon.ico",
+            "value": "-335242539",
+            "type": "hash"
+        },
+        {
+            "cms": "Mailcow",
+            "path": "/favicon.ico",
+            "value": "2146763496",
+            "type": "hash"
+        },
+        {
+            "cms": "QNAP NAS Virtualization Station",
+            "path": "/favicon.ico",
+            "value": "-1041180225",
+            "type": "hash"
+        },
+        {
+            "cms": "Netgear",
+            "path": "/favicon.ico",
+            "value": "-1319025408",
+            "type": "hash"
+        },
+        {
+            "cms": "Gogs",
+            "path": "/favicon.ico",
+            "value": "917966895",
+            "type": "hash"
+        },
+        {
+            "cms": "Trendnet IP camera",
+            "path": "/favicon.ico",
+            "value": "512590457",
+            "type": "hash"
+        },
+        {
+            "cms": "Asustor",
+            "path": "/favicon.ico",
+            "value": "1678170702",
+            "type": "hash"
+        },
+        {
+            "cms": "Dahua",
+            "path": "/favicon.ico",
+            "value": "-1466785234",
+            "type": "hash"
+        },
+        {
+            "cms": "Discuz!",
+            "path": "/favicon.ico",
+            "value": "-505448917",
+            "type": "hash"
+        },
+        {
+            "cms": "wdhashP cloud host management system",
+            "path": "/favicon.ico",
+            "value": "255892555",
+            "type": "hash"
+        },
+        {
+            "cms": "SmarterMail",
+            "path": "/favicon.ico",
+            "value": "-1935525788",
+            "type": "hash"
+        },
+        {
+            "cms": "Seafile",
+            "path": "/favicon.ico",
+            "value": "-12700016",
+            "type": "hash"
+        },
+        {
+            "cms": "NETGEAR ReadyNAS",
+            "path": "/favicon.ico",
+            "value": "-137295400",
+            "type": "hash"
+        },
+        {
+            "cms": "iPEhashS",
+            "path": "/favicon.ico",
+            "value": "-195508437",
+            "type": "hash"
+        },
+        {
+            "cms": "bet365",
+            "path": "/favicon.ico",
+            "value": "-2116540786",
+            "type": "hash"
+        },
+        {
+            "cms": "Reolink",
+            "path": "/favicon.ico",
+            "value": "-38705358",
+            "type": "hash"
+        },
+        {
+            "cms": "idera",
+            "path": "/favicon.ico",
+            "value": "-450254253",
+            "type": "hash"
+        },
+        {
+            "cms": "Proofpoint",
+            "path": "/favicon.ico",
+            "value": "-1630354993",
+            "type": "hash"
+        },
+        {
+            "cms": "Kerio hashonnect WebMail",
+            "path": "/favicon.ico",
+            "value": "-1678298769",
+            "type": "hash"
+        },
+        {
+            "cms": "Realtek",
+            "path": "/favicon.ico",
+            "value": "2055322029",
+            "type": "hash"
+        },
+        {
+            "cms": "锐捷 Ruijie Networks",
+            "path": "/favicon.ico",
+            "value": "-692947551",
+            "type": "hash"
+        },
+        {
+            "cms": "Askey hashable Modem",
+            "path": "/favicon.ico",
+            "value": "89321398",
+            "type": "hash"
+        },
+        {
+            "cms": "JAWS Web Server (IP hashamera)",
+            "path": "/favicon.ico",
+            "value": "768231242",
+            "type": "hash"
+        },
+        {
+            "cms": "Homegrown Website Hosting",
+            "path": "/favicon.ico",
+            "value": "-421986013",
+            "type": "hash"
+        },
+        {
+            "cms": "Technicolor / Thomson Speedtouch (Network / ADSL)",
+            "path": "/favicon.ico",
+            "value": "156312019",
+            "type": "hash"
+        },
+        {
+            "cms": "DVR (Korean)",
+            "path": "/favicon.ico",
+            "value": "-560297467",
+            "type": "hash"
+        },
+        {
+            "cms": "TP-LINK (Network Device)",
+            "path": "/favicon.ico",
+            "value": "1274078387",
+            "type": "hash"
+        },
+        {
+            "cms": "Salesforce",
+            "path": "/favicon.ico",
+            "value": "1433417005",
+            "type": "hash"
+        },
+        {
+            "cms": "Apache Haus",
+            "path": "/favicon.ico",
+            "value": "-632070065",
+            "type": "hash"
+        },
+        {
+            "cms": "Untangle",
+            "path": "/favicon.ico",
+            "value": "1103599349",
+            "type": "hash"
+        },
+        {
+            "cms": "Shenzhen coship electronics co.",
+            "path": "/favicon.ico",
+            "value": "224536051",
+            "type": "hash"
+        },
+        {
+            "cms": "D-Link (camera)",
+            "path": "/favicon.ico",
+            "value": "-1897829998",
+            "type": "hash"
+        },
+        {
+            "cms": "Icecast Streaming Media Server",
+            "path": "/favicon.ico",
+            "value": "1424295654",
+            "type": "hash"
+        },
+        {
+            "cms": "NEhash WebPro",
+            "path": "/favicon.ico",
+            "value": "1922032523",
+            "type": "hash"
+        },
+        {
+            "cms": "Vivotek (hashamera)",
+            "path": "/favicon.ico",
+            "value": "-1654229048",
+            "type": "hash"
+        },
+        {
+            "cms": "Microsoft IIS",
+            "path": "/favicon.ico",
+            "value": "-1414475558",
+            "type": "hash"
+        },
+        {
+            "cms": "Univention Portal",
+            "path": "/favicon.ico",
+            "value": "-1697334194",
+            "type": "hash"
+        },
+        {
+            "cms": "Portainer (Docker Management)",
+            "path": "/favicon.ico",
+            "value": "-1424036600",
+            "type": "hash"
+        },
+        {
+            "cms": "NOS Router",
+            "path": "/favicon.ico",
+            "value": "-831826827",
+            "type": "hash"
+        },
+        {
+            "cms": "Tongda",
+            "regex": "(通达OA系统|/static/images/tongda.ico|<link rel=shortcut icon href=/images/tongda.ico />|OA提示：不能登录OA|紧急通知：今日10点停电|Office Anywhere 2013|body = <a href='http://www.tongda2000.com/' target='_black'>通达官网</a></div>)",
+            "type": "bodys"
+        },
+        {
+            "cms": "hashrushFTP",
+            "path": "/favicon.ico",
+            "value": "-1022206565",
+            "type": "hash"
+        },
+        {
+            "cms": "Endian Firewall",
+            "path": "/favicon.ico",
+            "value": "-1225484776",
+            "type": "hash"
+        },
+        {
+            "cms": "Kerio hashontrol Firewall",
+            "path": "/favicon.ico",
+            "value": "-466504476",
+            "type": "hash"
+        },
+        {
+            "cms": "Ferozo Panel",
+            "path": "/favicon.ico",
+            "value": "2072198544",
+            "type": "hash"
+        },
+        {
+            "cms": "hashafe24 (Korea)",
+            "path": "/favicon.ico",
+            "value": "1251810433",
+            "type": "hash"
+        },
+        {
+            "cms": "Mautic (Open Source Marketing Automation)",
+            "path": "/favicon.ico",
+            "value": "1273982002",
+            "type": "hash"
+        },
+        {
+            "cms": "NETIASPOT (Network)",
+            "path": "/favicon.ico",
+            "value": "-978656757",
+            "type": "hash"
+        },
+        {
+            "cms": "Multilaser",
+            "path": "/favicon.ico",
+            "value": "916642917",
+            "type": "hash"
+        },
+        {
+            "cms": "hashanvas LMS (Learning Management)",
+            "path": "/favicon.ico",
+            "value": "575613323",
+            "type": "hash"
+        },
+        {
+            "cms": "I(1726027799)M Server",
+            "path": "/favicon.ico",
+            "value": "1726027799",
+            "type": "hash"
+        },
+        {
+            "cms": "AD(-587741716) (-587741716)roadband S.p.A. (Network)",
+            "path": "/favicon.ico",
+            "value": "-587741716",
+            "type": "hash"
+        },
+        {
+            "cms": "ARRIS (Network)",
+            "path": "/favicon.ico",
+            "value": "-360566773",
+            "type": "hash"
+        },
+        {
+            "cms": "Huawei (Network)",
+            "path": "/favicon.ico",
+            "value": "987967490",
+            "type": "hash"
+        },
+        {
+            "cms": "WAMPSERVER",
+            "path": "/favicon.ico",
+            "value": "443944613",
+            "type": "hash"
+        },
+        {
+            "cms": "Seagate Technology (NAS)",
+            "path": "/favicon.ico",
+            "value": "240136437",
+            "type": "hash"
+        },
+        {
+            "cms": "UPhash hasheska Republica (Network)",
+            "path": "/favicon.ico",
+            "value": "1911253822",
+            "type": "hash"
+        },
+        {
+            "cms": "Flussonic (Video Streaming)",
+            "path": "/favicon.ico",
+            "value": "-393788031",
+            "type": "hash"
+        },
+        {
+            "cms": "Metabase",
+            "path": "/favicon.ico",
+            "value": "1953726032",
+            "type": "hash"
+        },
+        {
+            "cms": "D-Link (Network)",
+            "path": "/favicon.ico",
+            "value": "1081719753",
+            "type": "hash"
+        },
+        {
+            "cms": "MobileIron",
+            "path": "/favicon.ico",
+            "value": "2086228042",
+            "type": "hash"
+        },
+        {
+            "cms": "hashommuniGate",
+            "path": "/favicon.ico",
+            "value": "-1588746893",
+            "type": "hash"
+        },
+        {
+            "cms": "ZTE (Network)",
+            "path": "/favicon.ico",
+            "value": "1427976651",
+            "type": "hash"
+        },
+        {
+            "cms": "InfiNet Wireless | WANFleX (Network)",
+            "path": "/favicon.ico",
+            "value": "1648531157",
+            "type": "hash"
+        },
+        {
+            "cms": "Mersive Solstice",
+            "path": "/favicon.ico",
+            "value": "938616453",
+            "type": "hash"
+        },
+        {
+            "cms": "Université Toulouse 1 hashapitole",
+            "path": "/favicon.ico",
+            "value": "1632780968",
+            "type": "hash"
+        },
+        {
+            "cms": "Digium (Switchvox)",
+            "path": "/favicon.ico",
+            "value": "2068154487",
+            "type": "hash"
+        },
+        {
+            "cms": "PowerMTA monitoring",
+            "path": "/favicon.ico",
+            "value": "-1788112745",
+            "type": "hash"
+        },
+        {
+            "cms": "SmartLAN/G",
+            "path": "/favicon.ico",
+            "value": "-644617577",
+            "type": "hash"
+        },
+        {
+            "cms": "hashheckpoint (Gaia)",
+            "path": "/favicon.ico",
+            "value": "-1822098181",
+            "type": "hash"
+        },
+        {
+            "cms": "УТМ (Federal Service for Alcohol Market Regulation | Russia)",
+            "path": "/favicon.ico",
+            "value": "-1131689409",
+            "type": "hash"
+        },
+        {
+            "cms": "MailWizz",
+            "path": "/favicon.ico",
+            "value": "2127152956",
+            "type": "hash"
+        },
+        {
+            "cms": "RabbitMQ",
+            "path": "/favicon.ico",
+            "value": "1064742722",
+            "type": "hash"
+        },
+        {
+            "cms": "openmediavault (NAS)",
+            "path": "/favicon.ico",
+            "value": "-693082538",
+            "type": "hash"
+        },
+        {
+            "cms": "Honeywell",
+            "path": "/favicon.ico",
+            "value": "903086190",
+            "type": "hash"
+        },
+        {
+            "cms": "(829321644)OMGAR Support Portal",
+            "path": "/favicon.ico",
+            "value": "829321644",
+            "type": "hash"
+        },
+        {
+            "cms": "Nuxt JS",
+            "path": "/favicon.ico",
+            "value": "-1442789563",
+            "type": "hash"
+        },
+        {
+            "cms": "Roundhashube Webmail",
+            "path": "/favicon.ico",
+            "value": "-2140379067",
+            "type": "hash"
+        },
+        {
+            "cms": "Netgear (Network)",
+            "path": "/favicon.ico",
+            "value": "1047213685",
+            "type": "hash"
+        },
+        {
+            "cms": "SonarQube",
+            "path": "/favicon.ico",
+            "value": "1485257654",
+            "type": "hash"
+        },
+        {
+            "cms": "Lupus Electronics XT",
+            "path": "/favicon.ico",
+            "value": "-299324825",
+            "type": "hash"
+        },
+        {
+            "cms": "Vanderbilt SPhash",
+            "path": "/favicon.ico",
+            "value": "-1162730477",
+            "type": "hash"
+        },
+        {
+            "cms": "(1118684072)aidu",
+            "path": "/favicon.ico",
+            "value": "1118684072",
+            "type": "hash"
+        },
+        {
+            "cms": "ownhashloud",
+            "path": "/favicon.ico",
+            "value": "-1616115760",
+            "type": "hash"
+        },
+        {
+            "cms": "Sentora",
+            "path": "/favicon.ico",
+            "value": "-2054889066",
+            "type": "hash"
+        },
+        {
+            "cms": "Alfresco",
+            "path": "/favicon.ico",
+            "value": "1333537166",
+            "type": "hash"
+        },
+        {
+            "cms": "Digital Keystone (DK)",
+            "path": "/favicon.ico",
+            "value": "-373674173",
+            "type": "hash"
+        },
+        {
+            "cms": "WISPR (Airlan)",
+            "path": "/favicon.ico",
+            "value": "-106646451",
+            "type": "hash"
+        },
+        {
+            "cms": "Synology VPN Plus",
+            "path": "/favicon.ico",
+            "value": "1235070469",
+            "type": "hash"
+        },
+        {
+            "cms": "Sentry",
+            "path": "/favicon.ico",
+            "value": "2063428236",
+            "type": "hash"
+        },
+        {
+            "cms": "WatchGuard",
+            "path": "/favicon.ico",
+            "value": "15831193",
+            "type": "hash"
+        },
+        {
+            "cms": "Web hashlient Pro",
+            "path": "/favicon.ico",
+            "value": "-956471263",
+            "type": "hash"
+        },
+        {
+            "cms": "Tecvoz",
+            "path": "/favicon.ico",
+            "value": "1059329877",
+            "type": "hash"
+        },
+        {
+            "cms": "MDaemon Remote Administration",
+            "path": "/favicon.ico",
+            "value": "99432374",
+            "type": "hash"
+        },
+        {
+            "cms": "Paradox IP Module",
+            "path": "/favicon.ico",
+            "value": "727253975",
+            "type": "hash"
+        },
+        {
+            "cms": "Sails",
+            "path": "/favicon.ico",
+            "value": "552597979",
+            "type": "hash"
+        },
+        {
+            "cms": "FastPanel Hosting",
+            "path": "/favicon.ico",
+            "value": "774252049",
+            "type": "hash"
+        },
+        {
+            "cms": "hash-Lodop",
+            "path": "/favicon.ico",
+            "value": "-329747115",
+            "type": "hash"
+        },
+        {
+            "cms": "Jamf",
+            "path": "/favicon.ico",
+            "value": "1262005940",
+            "type": "hash"
+        },
+        {
+            "cms": "StruxureWare (Schneider Electric)",
+            "path": "/favicon.ico",
+            "value": "979634648",
+            "type": "hash"
+        },
+        {
+            "cms": "Axcient Replibit Management Server",
+            "path": "/favicon.ico",
+            "value": "475379699",
+            "type": "hash"
+        },
+        {
+            "cms": "Twonky Server (Media Streaming)",
+            "path": "/favicon.ico",
+            "value": "-878891718",
+            "type": "hash"
+        },
+        {
+            "cms": "Windows Azure",
+            "path": "/favicon.ico",
+            "value": "-2125083197",
+            "type": "hash"
+        },
+        {
+            "cms": "ISP Manager (Web Hosting Panel)",
+            "path": "/favicon.ico",
+            "value": "-1151675028",
+            "type": "hash"
+        },
+        {
+            "cms": "JupyterHub",
+            "path": "/favicon.ico",
+            "value": "1248917303",
+            "type": "hash"
+        },
+        {
+            "cms": "hashenturyLink Modem GUI Login (eg: Technicolor)",
+            "path": "/favicon.ico",
+            "value": "-1908556829",
+            "type": "hash"
+        },
+        {
+            "cms": "OPNsense",
+            "path": "/favicon.ico",
+            "value": "-1148190371",
+            "type": "hash"
+        },
+        {
+            "cms": "Ligowave (network)",
+            "path": "/favicon.ico",
+            "value": "1467395679",
+            "type": "hash"
+        },
+        {
+            "cms": "Rumpus",
+            "path": "/favicon.ico",
+            "value": "-1528414776",
+            "type": "hash"
+        },
+        {
+            "cms": "Spiceworks (panel)",
+            "path": "/favicon.ico",
+            "value": "-2117390767",
+            "type": "hash"
+        },
+        {
+            "cms": "Teamhashity",
+            "path": "/favicon.ico",
+            "value": "-1944119648",
+            "type": "hash"
+        },
+        {
+            "cms": "INSTAR Full-HD IP-hashamera",
+            "path": "/favicon.ico",
+            "value": "-1748763891",
+            "type": "hash"
+        },
+        {
+            "cms": "GPON Home Gateway",
+            "path": "/favicon.ico",
+            "value": "251106693",
+            "type": "hash"
+        },
+        {
+            "cms": "Alienvault",
+            "path": "/favicon.ico",
+            "value": "-1779611449",
+            "type": "hash"
+        },
+        {
+            "cms": "Arbor Networks",
+            "path": "/favicon.ico",
+            "value": "-1745552996",
+            "type": "hash"
+        },
+        {
+            "cms": "Accrisoft",
+            "path": "/favicon.ico",
+            "value": "-1275148624",
+            "type": "hash"
+        },
+        {
+            "cms": "Yasni",
+            "path": "/favicon.ico",
+            "value": "-178685903",
+            "type": "hash"
+        },
+        {
+            "cms": "Slack",
+            "path": "/favicon.ico",
+            "value": "-43161126",
+            "type": "hash"
+        },
+        {
+            "cms": "innovaphone",
+            "path": "/favicon.ico",
+            "value": "671221099",
+            "type": "hash"
+        },
+        {
+            "cms": "Shinobi (hashhashTV)",
+            "path": "/favicon.ico",
+            "value": "-10974981",
+            "type": "hash"
+        },
+        {
+            "cms": "Siemens OZW772",
+            "path": "/favicon.ico",
+            "value": "-336242473",
+            "type": "hash"
+        },
+        {
+            "cms": "Lantronix (Spider)",
+            "path": "/favicon.ico",
+            "value": "882208493",
+            "type": "hash"
+        },
+        {
+            "cms": "hashlaimTime (Ramsell Public Health & Safety)",
+            "path": "/favicon.ico",
+            "value": "-687783882",
+            "type": "hash"
+        },
+        {
+            "cms": "Surfilter SSL VPN Portal",
+            "path": "/favicon.ico",
+            "value": "-590892202",
+            "type": "hash"
+        },
+        {
+            "cms": "Kyocera (Printer)",
+            "path": "/favicon.ico",
+            "value": "-50306417",
+            "type": "hash"
+        },
+        {
+            "cms": "Lucee!",
+            "path": "/favicon.ico",
+            "value": "784872924",
+            "type": "hash"
+        },
+        {
+            "cms": "Ricoh",
+            "path": "/favicon.ico",
+            "value": "1135165421",
+            "type": "hash"
+        },
+        {
+            "cms": "Handle Proxy",
+            "path": "/favicon.ico",
+            "value": "926501571",
+            "type": "hash"
+        },
+        {
+            "cms": "iomega NAS",
+            "path": "/favicon.ico",
+            "value": "-613216179",
+            "type": "hash"
+        },
+        {
+            "cms": "hashhef Automate",
+            "path": "/favicon.ico",
+            "value": "-276759139",
+            "type": "hash"
+        },
+        {
+            "cms": "Gargoyle Router Management Utility",
+            "path": "/favicon.ico",
+            "value": "1862132268",
+            "type": "hash"
+        },
+        {
+            "cms": "KeepItSafe Management hashonsole",
+            "path": "/favicon.ico",
+            "value": "-1738727418",
+            "type": "hash"
+        },
+        {
+            "cms": "Entronix Energy Management Platform",
+            "path": "/favicon.ico",
+            "value": "-368490461",
+            "type": "hash"
+        },
+        {
+            "cms": "OpenProject",
+            "path": "/favicon.ico",
+            "value": "1836828108",
+            "type": "hash"
+        },
+        {
+            "cms": "Unified Management hashonsole (Polycom)",
+            "path": "/favicon.ico",
+            "value": "-1775553655",
+            "type": "hash"
+        },
+        {
+            "cms": "Moxapass ioLogik Remote Ethernet I/O Server ",
+            "path": "/favicon.ico",
+            "value": "381100274",
+            "type": "hash"
+        },
+        {
+            "cms": "HFS (HTTP File Server)",
+            "path": "/favicon.ico",
+            "value": "731374291",
+            "type": "hash"
+        },
+        {
+            "cms": "Traccar GPS tracking",
+            "path": "/favicon.ico",
+            "value": "-335153896",
+            "type": "hash"
+        },
+        {
+            "cms": "IW",
+            "path": "/favicon.ico",
+            "value": "896412703",
+            "type": "hash"
+        },
+        {
+            "cms": "Wordpress Under hashonstruction Icon",
+            "path": "/favicon.ico",
+            "value": "191654058",
+            "type": "hash"
+        },
+        {
+            "cms": "hashombivox",
+            "path": "/favicon.ico",
+            "value": "-342262483",
+            "type": "hash"
+        },
+        {
+            "cms": "NethashomWireless (Network)",
+            "path": "/favicon.ico",
+            "value": "5542029",
+            "type": "hash"
+        },
+        {
+            "cms": "truVision (NVR)",
+            "path": "/favicon.ico",
+            "value": "-1093172228",
+            "type": "hash"
+        },
+        {
+            "cms": "SpamExperts",
+            "path": "/favicon.ico",
+            "value": "-1688698891",
+            "type": "hash"
+        },
+        {
+            "cms": "Sonatype Nexus Repository Manager",
+            "path": "/favicon.ico",
+            "value": "-1546574541",
+            "type": "hash"
+        },
+        {
+            "cms": "iDirect hashanada (Network Management)",
+            "path": "/favicon.ico",
+            "value": "-256828986",
+            "type": "hash"
+        },
+        {
+            "cms": "OpenERP (now known as Odoo)",
+            "path": "/favicon.ico",
+            "value": "1966198264",
+            "type": "hash"
+        },
+        {
+            "cms": "PKP (OpenJournalSystems) Public Knowledge Project",
+            "path": "/favicon.ico",
+            "value": "2099342476",
+            "type": "hash"
+        },
+        {
+            "cms": "LiquidFiles",
+            "path": "/favicon.ico",
+            "value": "541087742",
+            "type": "hash"
+        },
+        {
+            "cms": "ZyXEL (Network)",
+            "path": "/favicon.ico",
+            "value": "-882760066",
+            "type": "hash"
+        },
+        {
+            "cms": "Universal Devices (UD)",
+            "path": "/favicon.ico",
+            "value": "16202868",
+            "type": "hash"
+        },
+        {
+            "cms": "Gitea",
+            "path": "/favicon.ico",
+            "value": "1969970750",
+            "type": "hash"
+        },
+        {
+            "cms": "Thash-Group",
+            "path": "/favicon.ico",
+            "value": "-1734573358",
+            "type": "hash"
+        },
+        {
+            "cms": "Deluge Web UI",
+            "path": "/favicon.ico",
+            "value": "-1589842876",
+            "type": "hash"
+        },
+        {
+            "cms": "AMH 云主机面板",
+            "path": "/favicon.ico",
+            "value": "1822002133",
+            "type": "hash"
+        },
+        {
+            "cms": "OTRS (Open Ticket Request System)",
+            "path": "/favicon.ico",
+            "value": "-2006308185",
+            "type": "hash"
+        },
+        {
+            "cms": "(-1702769256)osch Security Systems (hashamera)",
+            "path": "/favicon.ico",
+            "value": "-1702769256",
+            "type": "hash"
+        },
+        {
+            "cms": "Node-RED",
+            "path": "/favicon.ico",
+            "value": "321591353",
+            "type": "hash"
+        },
+        {
+            "cms": "motionEye (camera)",
+            "path": "/favicon.ico",
+            "value": "-923693877",
+            "type": "hash"
+        },
+        {
+            "cms": "Saia (-1547576879)urgess hashontrols – PhashD",
+            "path": "/favicon.ico",
+            "value": "-1547576879",
+            "type": "hash"
+        },
+        {
+            "cms": "Arcadyan o2 box (Network)",
+            "path": "/favicon.ico",
+            "value": "1479202414",
+            "type": "hash"
+        },
+        {
+            "cms": "Abilis (Network/Automation)",
+            "path": "/favicon.ico",
+            "value": "-166151761",
+            "type": "hash"
+        },
+        {
+            "cms": "Airwatch",
+            "path": "/favicon.ico",
+            "value": "-1863663974",
+            "type": "hash"
+        },
+        {
+            "cms": "KeyHelp (Keyweb AG)",
+            "path": "/favicon.ico",
+            "value": "726817668",
+            "type": "hash"
+        },
+        {
+            "cms": "GLPI",
+            "path": "/favicon.ico",
+            "value": "-1474875778",
+            "type": "hash"
+        },
+        {
+            "cms": "Netcom Technology",
+            "path": "/favicon.ico",
+            "value": "5471989",
+            "type": "hash"
+        },
+        {
+            "cms": "hashradlePoint",
+            "path": "/favicon.ico",
+            "value": "-1457536113",
+            "type": "hash"
+        },
+        {
+            "cms": "MyASP",
+            "path": "/favicon.ico",
+            "value": "-736276076",
+            "type": "hash"
+        },
+        {
+            "cms": "Lenel",
+            "path": "/favicon.ico",
+            "value": "538585915",
+            "type": "hash"
+        },
+        {
+            "cms": "OkoFEN Pellematic",
+            "path": "/favicon.ico",
+            "value": "-625364318",
+            "type": "hash"
+        },
+        {
+            "cms": "SimpleHelp (Remote Support)",
+            "path": "/favicon.ico",
+            "value": "1117165781",
+            "type": "hash"
+        },
+        {
+            "cms": "GraphQL",
+            "path": "/favicon.ico",
+            "value": "-1067420240",
+            "type": "hash"
+        },
+        {
+            "cms": "DNN (hashMS)",
+            "path": "/favicon.ico",
+            "value": "-1465479343",
+            "type": "hash"
+        },
+        {
+            "cms": "Apple",
+            "path": "/favicon.ico",
+            "value": "-1498185948",
+            "type": "hash"
+        },
+        {
+            "cms": "Microsoft Outlook",
+            "path": "/favicon.ico",
+            "value": "-1249852061",
+            "type": "hash"
+        },
+        {
+            "cms": "Hikvision",
+            "path": "/favicon.ico",
+            "value": "999357577",
+            "type": "hash"
+        },
+        {
+            "cms": "IP hashamera",
+            "path": "/favicon.ico",
+            "value": "492290497",
+            "type": "hash"
+        },
+        {
+            "cms": "AfterLogicWebMail系统",
+            "path": "/favicon.ico",
+            "value": "-194791768",
+            "type": "hash"
+        },
+        {
+            "cms": "(492941040)2(492941040)builder",
+            "path": "/favicon.ico",
+            "value": "492941040",
+            "type": "hash"
+        },
+        {
+            "cms": "深信服sangfor下一代防火墙管理系统",
+            "path": "/favicon.ico",
+            "value": "123821839",
+            "type": "hash"
+        },
+        {
+            "cms": "JumpServer 堡垒机",
+            "path": "/favicon.ico",
+            "value": "-1162630024",
+            "type": "hash"
+        },
+        {
+            "cms": "ShowDoc",
+            "path": "/favicon.ico",
+            "value": "1969934080",
+            "type": "hash"
+        },
+        {
+            "cms": "协达OA",
+            "path": "/favicon.ico",
+            "value": "-1850889691",
+            "type": "hash"
+        },
+        {
+            "cms": "中成科信 综合管理平台",
+            "path": "/favicon.ico",
+            "value": "1632964065",
+            "type": "hash"
+        },
+        {
+            "cms": "hashitrix 虚拟桌面",
+            "path": "/favicon.ico",
+            "value": "-1272756243",
+            "type": "hash"
+        },
+        {
+            "cms": "SeaweedFS",
+            "path": "/favicon.ico",
+            "value": "1210969935",
+            "type": "hash"
+        },
+        {
+            "cms": "FreeRDP 远程RDP工具",
+            "path": "/favicon.ico",
+            "value": "-2052468252",
+            "type": "hash"
+        },
+        {
+            "cms": "Apache ActiveMQ",
+            "path": "/favicon.ico",
+            "value": "1766699363",
+            "type": "hash"
+        },
+        {
+            "cms": "Apache-Skywalking",
+            "path": "/favicon.ico",
+            "value": "1929532064",
+            "type": "hash"
+        },
+        {
+            "cms": "Parallels Default page",
+            "path": "/favicon.ico",
+            "value": "-1050786453",
+            "type": "hash"
+        },
+        {
+            "cms": "Plesk",
+            "path": "/favicon.ico",
+            "value": "-134375033",
+            "type": "hash"
+        },
+        {
+            "cms": "DzzOffice 开源办公系统",
+            "path": "/favicon.ico",
+            "value": "-1961736892",
+            "type": "hash"
+        },
+        {
+            "cms": "网康科技网关/防火墙",
+            "path": "/favicon.ico",
+            "value": "5471989",
+            "type": "hash"
+        },
+        {
+            "cms": "SuperMap iServer Web Manager",
+            "path": "/favicon.ico",
+            "value": "1740191553",
+            "type": "hash"
+        },
+        {
+            "cms": "Jellyfin",
+            "path": "/favicon.ico",
+            "value": "-2069226242",
+            "type": "hash"
+        },
+        {
+            "cms": "孚盟云 hashRM",
+            "path": "/favicon.ico",
+            "value": "1533124028",
+            "type": "hash"
+        },
+        {
+            "cms": "TVT 公司产品",
+            "path": "/favicon.ico",
+            "value": "492290497",
+            "type": "hash"
+        },
+        {
+            "cms": "资产灯塔系统",
+            "path": "/favicon.ico",
+            "value": "1708240621",
+            "type": "hash"
+        },
+        {
+            "cms": "锐捷 N(738520282)R 路由器",
+            "path": "/favicon.ico",
+            "value": "738520282",
+            "type": "hash"
+        },
+        {
+            "cms": "二级域名分发系统",
+            "path": "/favicon.ico",
+            "value": "-2055778861",
+            "type": "hash"
+        },
+        {
+            "cms": "致远 Analytics hashloud 分析云",
+            "path": "/favicon.ico",
+            "value": "410106848",
+            "type": "hash"
+        },
+        {
+            "cms": "奥联通讯管理平台",
+            "path": "/favicon.ico",
+            "value": "-1356973161",
+            "type": "hash"
+        },
+        {
+            "cms": "百傲瑞达",
+            "path": "/favicon.ico",
+            "value": "-1169502834",
+            "type": "hash"
+        },
+        {
+            "cms": "明源云ERP",
+            "path": "/favicon.ico",
+            "value": "-626335361",
+            "type": "hash"
+        },
+        {
+            "cms": "Solar 网络管理系统",
+            "path": "/favicon.ico",
+            "value": "-1871496583",
+            "type": "hash"
+        },
+        {
+            "cms": "e-cology 运维管理平台",
+            "path": "/favicon.ico",
+            "value": "-384583337",
+            "type": "hash"
+        },
+        {
+            "cms": "ThinkPHP",
+            "regex": "(ThinkPHP|系统发生错误|无法载入模组|无法加载控制器|无法加载模块|module not exists)",
+            "type": "bodys"
+        },
+        {
+            "cms": "tomcat",
+            "regex": "(Apache Tomcat)",
+            "type": "bodys"
+        },
+        {
+            "cms": "LandrayOA",
+            "regex": "(sys/ui/extend/theme/default/style/icon.css|sys/ui/extend/theme/default/style/profile.css|vcode.jsp)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SeeyonOA",
+            "regex": "(/js/jquery/jquery_wev8.js|/login/Login.jsp?logintype=1|/seeyon/USER-DATA/IMAGES/LOGIN/login.gif|/seeyon/USER-DATA/IMAGES/LOGIN/login.gif|/seeyon/USER-DATA/IMAGES/LOGIN/login.gif|用友致远A|/yyoa/|/seeyon/common/all-min.js)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Springboot",
+            "path": "/favicon.ico",
+            "value": "116323821",
+            "type": "hash"
+        },
+        {
+            "cms": "Springboot",
+            "regex": "(Whitelabel Error Page|logback|servletbodysontextInitParams)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SeeyonOA",
+            "regex": "(e-Bridge)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SeeyonOA",
+            "regex": "(ecology8)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SeeyonOA",
+            "regex": "(ecology9)",
+            "type": "bodys"
+        },
+        {
+            "cms": "SeeyonOA",
+            "regex": "(ecology_JSessionid)",
+            "type": "headers"
+        },
+        {
+            "cms": "SeeyonOA",
+            "path": "/favicon.ico",
+            "value": "2062026853",
+            "type": "hash"
+        },
+        {
+            "cms": "齐安信VPN",
+            "path": "/favicon.ico",
+            "value": "663709625",
+            "type": "hash"
+        },
+        {
+            "cms": "Aliyunoss",
+            "regex": "(The bucket you access does not belong to you)",
+            "type": "bodys"
+        },
+        {
+            "cms": "天清汉马VPN",
+            "path": "/favicon.ico",
+            "value": "-15980305",
+            "type": "hash"
+        },
+        {
+            "cms": "深信服sangfor应用交付报表系统",
+            "path": "/favicon.ico",
+            "value": "-1810847295",
+            "type": "hash"
+        },
+        {
+            "cms": "pfSense防火墙",
+            "path": "/favicon.ico",
+            "value": "1405460984",
+            "type": "hash"
+        },
+        {
+            "cms": "Grafana",
+            "regex": "(Grafana)",
+            "type": "bodys"
+        },
+        {
+            "cms": "minio",
+            "regex": "(MinIO Browser)",
+            "type": "bodys"
+        },
+        {
+            "cms": "ThinkbodysMF",
+            "regex": "(<meta name=\"author\" content=\"ThinkbodysMF\">)",
+            "type": "bodys"
+        },
+        {
+            "cms": "cloudfront",
+            "regex": "(Hit from cloudfront|Refreshhit from cloudfront|Miss from cloudfront|Error from cloudfront)",
+            "type": "headers"
+        },
+        {
+            "cms": "Apache Drill",
+            "regex": "(<title>Apache Drill)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Apache Airflow",
+            "regex": "(<title>Sign In - Airflow)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Apache Dubbo",
+            "regex": "(Basic realm=\"dubbo\")",
+            "type": "headers"
+        },
+        {
+            "cms": "ApacheDruid",
+            "path": "/favicon.ico",
+            "value": "-698050978",
+            "type": "hash"
+        },
+        {
+            "cms": "ApacheApisix",
+            "path": "/favicon.ico",
+            "value": "358172742",
+            "type": "hash"
+        },
+        {
+            "cms": "ApacheDolphinScheduler",
+            "path": "/favicon.ico",
+            "value": "1086787460",
+            "type": "hash"
+        },
+        {
+            "cms": "ApacheKafka",
+            "path": "/favicon.ico",
+            "value": "2123286593",
+            "type": "hash"
+        },
+        {
+            "cms": "ApacheRanger",
+            "path": "/favicon.ico",
+            "value": "1302629996",
+            "type": "hash"
+        },
+        {
+            "cms": "EMobileServer",
+            "path": "/favicon.ico",
+            "value": "2062026853",
+            "type": "hash"
+        },
+        {
+            "cms": "H5S",
+            "path": "/static/img/favicon.png",
+            "value": "-1789528583",
+            "type": "hash"
+        },
+        {
+            "cms": "weiphp",
+            "path": "/favicon.ico",
+            "value": "37052027",
+            "type": "hash"
+        },
+        {
+            "cms": "Ruoyi",
+            "path": "/favicon.ico",
+            "value": "706913071",
+            "type": "hash"
+        },
+        {
+            "cms": "ShopXO",
+            "path": "/favicon.ico",
+            "value": "458964438",
+            "type": "hash"
+        },
+        {
+            "cms": "EmpireCMS",
+            "regex": "(Powered by EmpireCMS)",
+            "type": "bodys"
+        },
+        {
+            "cms": "eYouMail",
+            "regex": "(eYouMail)",
+            "type": "bodys"
+        },
+        {
+            "cms": "RPCMS",
+            "path": "/favicon.ico",
+            "value": "557819984",
+            "type": "hash"
+        },
+        {
+            "cms": "Laravel Filemanager",
+            "regex": "(Laravel Filemanager)",
+            "type": "bodys"
+        },
+        {
+            "cms": "Atlassian Jira",
+            "path": "/favicon.ico",
+            "value": "859916038",
+            "type": "hash"
+        },
+        {
+            "cms": "Free5gc",
+            "path": "/favicon.ico",
+            "value": "-2009722838",
+            "type": "hash"
+        },
+        {
+            "cms": "Dapr Dashboard",
+            "path": "/favicon.ico",
+            "value": "-1294239467",
+            "type": "hash"
+        },
+        {
+            "cms": "ZenTao",
+            "path": "/favicon.ico",
+            "value": "53755730",
+            "type": "hash"
+        },
+        {
+            "cms": "9Qu",
+            "regex": "(9Qu Management System)",
+            "type": "bodys"
+        }
+    ]
+}

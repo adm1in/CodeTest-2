@@ -1,0 +1,84 @@
+# -*- coding:UTF-8 -*-
+from lib.util.exprequest import ExpRequest
+from lib.util.output import Output
+from lib.util.fun import *
+import lib.util.globalvar as GlobalVar
+import prettytable as pt
+"""
+from lib.clasetting import Dnslog,random_str
+DL = Dnslog()
+DL.dns_host()
+DL.result()
+"""
+class {{service.entry_nodes.vulname}}():
+    def __init__(self, **env):
+        """
+        基础参数初始化
+        """
+        self.url = env.get('url')
+        self.cmd = env.get('cmd')
+        self.pocname = env.get('pocname')
+        self.vuln = env.get('vuln')
+        self.timeout = int(env.get('timeout'))
+        self.retry_time = int(env.get('retry_time'))
+        self.retry_interval = int(env.get('retry_interval'))
+        self.flag = GlobalVar.get_value('flag')
+            
+    def {{service.entry_nodes.cvename}}(self):
+        appName = '{{service.entry_nodes.vulname}}'
+        pocname = '{{service.entry_nodes.cvename}}'
+        path = '{{service.header_nodes.headinfo.path}}'
+        method = '{{service.header_nodes.headinfo.method}}'
+        desc = '{{service.entry_nodes.infoname}} {{service.entry_nodes.banner}}'
+        data = '{{service.header_nodes.content.data}}'
+        headers = {{service.header_nodes.headinfo.header}}
+        #输出类
+        output = Output(self.url, appName, pocname)
+        #请求类
+        exprequest = ExpRequest(output)
+        try:
+            if self.vuln == 'False':
+                r = exprequest.{{service.header_nodes.headinfo.method}}(
+                    url=self.url+path, 
+                    data=data, 
+                    headers=headers,
+                    )
+                {{service.entry_nodes.condition}}
+                    return output.no_echo_success(method, desc)
+                else:
+                    return output.fail()
+            else:
+                result = exprequest.{{service.header_nodes.headinfo.method}}(
+                    url=self.url+path,
+                    data=data, 
+                    headers=headers,
+                    ).text
+                print(result)
+        except Exception as error:
+            return output.error_output(str(error))
+
+tb = pt.PrettyTable()
+tb.field_names = ['Target type', 'Vuln Name', 'Impact Version && Vulnerability description']
+tb.align['Target type'] = 'l'
+tb.align['Vuln Name'] = 'l'
+tb.align['Impact Version && Vulnerability description'] = 'l'
+tb.add_row([
+    '{{service.entry_nodes.vulname}}',
+    '{{service.entry_nodes.cvename}}',
+    '{{service.entry_nodes.infoname}} {{service.entry_nodes.banner}}'
+])
+print(tb)
+
+def check(**kwargs):
+    thread_list = []
+    Exp{{service.entry_nodes.vulname}} = {{service.entry_nodes.vulname}}(**kwargs)
+    #调用单个函数
+    if kwargs['pocname'] != 'ALL':
+        thread_list.append(kwargs['pool'].submit(getattr(Exp{{service.entry_nodes.vulname}}, kwargs['pocname'])))
+    #调用所有函数
+    else:
+        for func in dir({{service.entry_nodes.vulname}}):
+            if not func.startswith("__"):
+                thread_list.append(kwargs['pool'].submit(getattr(Exp{{service.entry_nodes.vulname}}, func)))
+    #保存全局子线程列表
+    GlobalVar.add_value('thread_list', thread_list)
