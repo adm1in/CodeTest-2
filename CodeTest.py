@@ -17,6 +17,7 @@ import prettytable as pt
 import os,sys,time,socket,datetime
 import importlib,glob,requests,binascii,re
 import threading,math,json,base64
+import platform
 import urllib3
 import inspect
 import ctypes
@@ -24,19 +25,23 @@ import ctypes
 os.environ['COMPOSE_TLS_VERSION'] = "TLSv1_2"
 # 去除错误警告
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-# 调用api设置成由应用程序缩放
-try:
-    # version >= win 8.1
-    ctypes.windll.shcore.SetProcessDpiAwareness(True)
-except:
-    # version win 8.0 or less
-    ctypes.windll.user32.SetProcessDPIAware()
-#调用api获得当前的缩放因子
-try:
-    # version >= win 8
-    scaleFactor = ctypes.windll.shcore.GetScaleFactorForDevice(0)
-except:
-    # version win 7 or less
+if platform.system() == 'Windows':
+    #调用api设置成由应用程序缩放
+    try:
+        # version >= win 8.1
+        ctypes.windll.shcore.SetProcessDpiAwareness(True)
+    except:
+        # version win 8.0 or less
+        ctypes.windll.user32.SetProcessDPIAware()
+    #调用api获得当前的缩放因子
+    try:
+        # version >= win 8
+        scaleFactor = ctypes.windll.shcore.GetScaleFactorForDevice(0)
+    except:
+        # version win 7 or less
+        scaleFactor = 125
+else:
+    # code for non-Windows platforms
     scaleFactor = 125
 #主界面类
 class MyGUI:
@@ -73,6 +78,9 @@ class MyGUI:
     # 初始化窗体对象
     def __init__(self):
         self.root = Tk()
+        # 缩放比例是一个小数值，范围是0.25到4.0，如果界面组件有问题，可自行调整
+        # 比例越小组件越小，默认为125/75 ~= 1.66
+        # self.root.tk.call('tk', 'scaling', 1.66)
         self.root.tk.call('tk', 'scaling', scaleFactor / 75)
         self.root.iconbitmap('python.ico')
         # 设置title

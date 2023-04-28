@@ -46,6 +46,10 @@ pip3 install -r requirements.txt
 python3 CodeTest.py
 ```
 
+## 界面问题
+`如果界面组件有问题，修改以下代码`
+`self.root.tk.call('tk', 'scaling', scaleFactor / 75)`
+
 ## 运行截图
 
 `jsfind`
