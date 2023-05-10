@@ -398,20 +398,18 @@ class VulDatabase():
 
     # 去重
     def remove_same(self):
-        temp_target = []
-        temp_pocname = []
+        temp = []
         items = self.df.copy()
         for item in items:
-            item_text = self.tree.item(item,"values")
+            item_text = self.tree.item(item, "values")
             target = item_text[1]
             pocname = item_text[3]
-            
-            if target in temp_target and pocname in temp_pocname:
+            a = target+'|'+pocname
+            if a in temp:
                 self.tree.delete(item)
                 self.df.remove(item)
             else:
-                temp_target.append(target)
-                temp_pocname.append(pocname)
+                temp.append(a)
         # 将去重后的数据保存
         self.save_tree()
         # 重新排序号
